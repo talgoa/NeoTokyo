@@ -1,0 +1,1088 @@
+{
+    "id": 65555782,
+    "token_id": "1793",
+    "num_sales": 2,
+    "background_color": null,
+    "image_url": "https://storage.opensea.io/files/d203d3452bbc3d2e242c6cdbc9577ee8.svg",
+    "image_preview_url": "https://storage.opensea.io/files/d203d3452bbc3d2e242c6cdbc9577ee8.svg",
+    "image_thumbnail_url": "https://storage.opensea.io/files/d203d3452bbc3d2e242c6cdbc9577ee8.svg",
+    "image_original_url": null,
+    "animation_url": null,
+    "animation_original_url": null,
+    "name": "Character #1793",
+    "description": "Welcome to Neo Tokyo, citizen. Are you prepared to fulfill your destiny?",
+    "external_link": null,
+    "asset_contract": {
+        "address": "0x86357a19e5537a8fba9a004e555713bc943a66c0",
+        "asset_contract_type": "non-fungible",
+        "created_date": "2021-10-03T08:04:56.598515",
+        "name": "Neo Tokyo: Identities",
+        "nft_version": "3.0",
+        "opensea_version": null,
+        "owner": 87607055,
+        "schema_name": "ERC721",
+        "symbol": "NEOTI",
+        "total_supply": "0",
+        "description": "Ciphers decoding....\nPreparing bytestream headers [/*|\\]\nMemory linked list unpacked\nWelcome to the New World\n",
+        "external_link": null,
+        "image_url": "https://lh3.googleusercontent.com/MpVB_fMVj64RvgqdPhbVOuul-QLYrYVFqd65_0hqTTvrHGl_foGn-_NIz7YU5P74oCNIk-CyFi5hb2EqKpb2w-cKZ58-Ds2mqfGPcZ0=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 500,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 750,
+        "payout_address": "0xb616945250ccef6135006a869d0c7f5b1406854c"
+    },
+    "permalink": "https://opensea.io/assets/0x86357a19e5537a8fba9a004e555713bc943a66c0/1793",
+    "collection": {
+        "payment_tokens": [
+            {
+                "id": 13689077,
+                "symbol": "ETH",
+                "address": "0x0000000000000000000000000000000000000000",
+                "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+                "name": "Ether",
+                "decimals": 18,
+                "eth_price": 1.0,
+                "usd_price": 4232.83
+            },
+            {
+                "id": 4645681,
+                "symbol": "WETH",
+                "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "image_url": "https://storage.opensea.io/files/accae6b6fb3888cbff27a013729c22dc.svg",
+                "name": "Wrapped Ether",
+                "decimals": 18,
+                "eth_price": 1.0,
+                "usd_price": 4244.77
+            }
+        ],
+        "primary_asset_contracts": [
+            {
+                "address": "0x86357a19e5537a8fba9a004e555713bc943a66c0",
+                "asset_contract_type": "non-fungible",
+                "created_date": "2021-10-03T08:04:56.598515",
+                "name": "Neo Tokyo: Identities",
+                "nft_version": "3.0",
+                "opensea_version": null,
+                "owner": 87607055,
+                "schema_name": "ERC721",
+                "symbol": "NEOTI",
+                "total_supply": "0",
+                "description": "Ciphers decoding....\nPreparing bytestream headers [/*|\\]\nMemory linked list unpacked\nWelcome to the New World\n",
+                "external_link": null,
+                "image_url": "https://lh3.googleusercontent.com/MpVB_fMVj64RvgqdPhbVOuul-QLYrYVFqd65_0hqTTvrHGl_foGn-_NIz7YU5P74oCNIk-CyFi5hb2EqKpb2w-cKZ58-Ds2mqfGPcZ0=s120",
+                "default_to_fiat": false,
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 500,
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "buyer_fee_basis_points": 0,
+                "seller_fee_basis_points": 750,
+                "payout_address": "0xb616945250ccef6135006a869d0c7f5b1406854c"
+            }
+        ],
+        "traits": {
+            "Credits": {
+                "min": 290,
+                "max": 1459
+            },
+            "Intelligence": {
+                "min": 10,
+                "max": 99
+            },
+            "Tech Skill": {
+                "min": 10,
+                "max": 99
+            },
+            "Attractiveness": {
+                "min": 10,
+                "max": 99
+            },
+            "Strength": {
+                "min": 10,
+                "max": 99
+            },
+            "Cool": {
+                "min": 10,
+                "max": 99
+            }
+        },
+        "stats": {
+            "one_day_volume": 31.13,
+            "one_day_change": -0.7837667375867312,
+            "one_day_sales": 3.0,
+            "one_day_average_price": 10.376666666666667,
+            "seven_day_volume": 1205.28886307736,
+            "seven_day_change": 1.0082955604500383,
+            "seven_day_sales": 99.0,
+            "seven_day_average_price": 12.174634980579395,
+            "thirty_day_volume": 6667.53676495816,
+            "thirty_day_change": 0.0,
+            "thirty_day_sales": 720.0,
+            "thirty_day_average_price": 9.260467729108557,
+            "total_volume": 6667.53676495816,
+            "total_sales": 720.0,
+            "total_supply": 2018.0,
+            "count": 2018.0,
+            "num_owners": 1924,
+            "average_price": 9.260467729108557,
+            "num_reports": 51,
+            "market_cap": 24568.41339080922,
+            "floor_price": 10.4122702439862
+        },
+        "banner_image_url": "https://lh3.googleusercontent.com/_GM8f8ete5DWjl55eIVwOzB66MdaaW0ZEG-dNke-l0WnP7t2Rhno37rMS11OipMS8ROYZF549DIQYCm53nC0hIvvANXQEiR6ikvC=s2500",
+        "chat_url": null,
+        "created_date": "2021-10-04T15:14:32.376341",
+        "default_to_fiat": false,
+        "description": "Ciphers decoding....\nPreparing bytestream headers [/*|\\]\nMemory linked list unpacked\nWelcome to the New World\n",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "500",
+        "discord_url": null,
+        "display_data": {
+            "card_display_style": "contain"
+        },
+        "external_url": null,
+        "featured": false,
+        "featured_image_url": "https://lh3.googleusercontent.com/_GM8f8ete5DWjl55eIVwOzB66MdaaW0ZEG-dNke-l0WnP7t2Rhno37rMS11OipMS8ROYZF549DIQYCm53nC0hIvvANXQEiR6ikvC=s300",
+        "hidden": false,
+        "safelist_request_status": "approved",
+        "image_url": "https://lh3.googleusercontent.com/MpVB_fMVj64RvgqdPhbVOuul-QLYrYVFqd65_0hqTTvrHGl_foGn-_NIz7YU5P74oCNIk-CyFi5hb2EqKpb2w-cKZ58-Ds2mqfGPcZ0=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": "https://lh3.googleusercontent.com/_GM8f8ete5DWjl55eIVwOzB66MdaaW0ZEG-dNke-l0WnP7t2Rhno37rMS11OipMS8ROYZF549DIQYCm53nC0hIvvANXQEiR6ikvC=s300",
+        "medium_username": null,
+        "name": "Neo Tokyo Identities",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0xb616945250ccef6135006a869d0c7f5b1406854c",
+        "require_email": false,
+        "short_description": null,
+        "slug": "neo-tokyo-identities",
+        "telegram_url": null,
+        "twitter_username": null,
+        "instagram_username": null,
+        "wiki_url": null
+    },
+    "decimals": 0,
+    "token_metadata": "data:application/json;base64,eyJuYW1lIjogIkNoYXJhY3RlciAjMTc5MyIsImF0dHJpYnV0ZXMiOiBbeyJ0cmFpdF90eXBlIjogIlN0YXR1cyIsICJ2YWx1ZSI6ICJGaXJzdCBDaXRpemVuIn0seyJ0cmFpdF90eXBlIjogIkNsYXNzIiwgInZhbHVlIjogIkJhcnRlbmRlciJ9LHsidHJhaXRfdHlwZSI6ICJHZW5kZXIiLCAidmFsdWUiOiAiRmVtYWxlIn0seyJ0cmFpdF90eXBlIjogIlJhY2UiLCAidmFsdWUiOiAiSHVtYW4ifSx7InRyYWl0X3R5cGUiOiAiQWJpbGl0eSIsICJ2YWx1ZSI6ICJOb25lIn0seyJ0cmFpdF90eXBlIjogIkV5ZXMiLCAidmFsdWUiOiAiVGlyZWQifSx7InRyYWl0X3R5cGUiOiAiU3RyZW5ndGgiLCAibWF4X3ZhbHVlIjogMTAwLCAidmFsdWUiOiA2N30seyJ0cmFpdF90eXBlIjogIkludGVsbGlnZW5jZSIsICJtYXhfdmFsdWUiOiAxMDAsICJ2YWx1ZSI6IDMyfSx7InRyYWl0X3R5cGUiOiAiQXR0cmFjdGl2ZW5lc3MiLCAibWF4X3ZhbHVlIjogMTAwLCAidmFsdWUiOiAyMn0seyJ0cmFpdF90eXBlIjogIlRlY2ggU2tpbGwiLCAibWF4X3ZhbHVlIjogMTAwLCAidmFsdWUiOiA3NX0seyJ0cmFpdF90eXBlIjogIkNvb2wiLCAibWF4X3ZhbHVlIjogMTAwLCAidmFsdWUiOiA0MH0seyJ0cmFpdF90eXBlIjogIkNyZWRpdHMiLCAidmFsdWUiOiAyOTR9LHsidHJhaXRfdHlwZSI6ICJDcmVkaXQgWWllbGQiLCAidmFsdWUiOiAiTG93In1dLCJkZXNjcmlwdGlvbiI6ICJXZWxjb21lIHRvIE5lbyBUb2t5bywgY2l0aXplbi4gQXJlIHlvdSBwcmVwYXJlZCB0byBmdWxmaWxsIHlvdXIgZGVzdGlueT8iLCAiaW1hZ2UiOiAiZGF0YTppbWFnZS9zdmcreG1sO2Jhc2U2NCxQSE4yWnlCNGJXeHVjejBpYUhSMGNEb3ZMM2QzZHk1M015NXZjbWN2TWpBd01DOXpkbWNpSUhCeVpYTmxjblpsUVhOd1pXTjBVbUYwYVc4OUluaE5hVzVaVFdsdUlHMWxaWFFpSUhacFpYZENiM2c5SWpBZ01DQTJPREFnTmpZd0lqNDhjM1I1YkdVK0xteHBibVZEYjNWdWRDQjdJR1pwYkd3NklDTkNRVUpCUWtFN0lHWnZiblF0Wm1GdGFXeDVPaUJqYjI1emIyeGhjenNnWm05dWRDMXphWHBsT2lBeE1uQjRPeUI5UEM5emRIbHNaVDQ4YzNSNWJHVStMbWRzYjJKaGJDQjdJR1pwYkd3NklDTTRRamt4T0RrN0lHWnZiblF0Wm1GdGFXeDVPaUJqYjI1emIyeGhjenNnWm05dWRDMXphWHBsT2lBeE1uQjRPeUI5UEM5emRIbHNaVDQ4YzNSNWJHVStMbXRsZVhkdmNtUWdleUJtYVd4c09pQWpaVEE1TXpKa095Qm1iMjUwTFdaaGJXbHNlVG9nWTI5dWMyOXNZWE03SUdadmJuUXRjMmw2WlRvZ01USndlRHNnZlR3dmMzUjViR1UrUEhOMGVXeGxQaTVpWVhObElIc2dabWxzYkRvZ2QyaHBkR1U3SUdadmJuUXRabUZ0YVd4NU9pQmpiMjV6YjJ4aGN6c2dabTl1ZEMxemFYcGxPaUF4TW5CNE95QjlQQzl6ZEhsc1pUNDhjbVZqZENCM2FXUjBhRDBpTVRBd0pTSWdhR1ZwWjJoMFBTSXhNREFsSWlCbWFXeHNQU0lqTWpReU9USTFJaUF2UGp4eVpXTjBJSGc5SWpnaUlIazlJamdpSUhkcFpIUm9QU0k1Tnk0M0pTSWdhR1ZwWjJoMFBTSTVPQ1VpSUdacGJHdzlJaU15TkRJNU1qVWlJQzgrUEhKbFkzUWdlRDBpT0NJZ2VUMGlPQ0lnZDJsa2RHZzlJak1sSWlCb1pXbG5hSFE5SWprNEpTSWdabWxzYkQwaUl6SmpNekF5WkNJdlBqeDBaWGgwSUhnOUlqRTFJaUI1UFNJeU1DSWdZMnhoYzNNOUlteHBibVZEYjNWdWRDSStNVHd2ZEdWNGRENDhkR1Y0ZENCNFBTSXhOU0lnZVQwaU5EQWlJR05zWVhOelBTSnNhVzVsUTI5MWJuUWlQakk4TDNSbGVIUStQSFJsZUhRZ2VEMGlNVFVpSUhrOUlqWXdJaUJqYkdGemN6MGliR2x1WlVOdmRXNTBJajR6UEM5MFpYaDBQangwWlhoMElIZzlJakUxSWlCNVBTSTRNQ0lnWTJ4aGMzTTlJbXhwYm1WRGIzVnVkQ0krTkR3dmRHVjRkRDQ4ZEdWNGRDQjRQU0l4TlNJZ2VUMGlNVEF3SWlCamJHRnpjejBpYkdsdVpVTnZkVzUwSWo0MVBDOTBaWGgwUGp4MFpYaDBJSGc5SWpFMUlpQjVQU0l4TWpBaUlHTnNZWE56UFNKc2FXNWxRMjkxYm5RaVBqWThMM1JsZUhRK1BIUmxlSFFnZUQwaU1UVWlJSGs5SWpFME1DSWdZMnhoYzNNOUlteHBibVZEYjNWdWRDSStOend2ZEdWNGRENDhkR1Y0ZENCNFBTSXhOU0lnZVQwaU1UWXdJaUJqYkdGemN6MGliR2x1WlVOdmRXNTBJajQ0UEM5MFpYaDBQangwWlhoMElIZzlJakUxSWlCNVBTSXhPREFpSUdOc1lYTnpQU0pzYVc1bFEyOTFiblFpUGprOEwzUmxlSFErUEhSbGVIUWdlRDBpTVRJaUlIazlJakl3TUNJZ1kyeGhjM005SW14cGJtVkRiM1Z1ZENJK01UQThMM1JsZUhRK1BIUmxlSFFnZUQwaU1USWlJSGs5SWpJeU1DSWdZMnhoYzNNOUlteHBibVZEYjNWdWRDSStNVEU4TDNSbGVIUStQSFJsZUhRZ2VEMGlNVElpSUhrOUlqSTBNQ0lnWTJ4aGMzTTlJbXhwYm1WRGIzVnVkQ0krTVRJOEwzUmxlSFErUEhSbGVIUWdlRDBpTVRJaUlIazlJakkyTUNJZ1kyeGhjM005SW14cGJtVkRiM1Z1ZENJK01UTThMM1JsZUhRK1BIUmxlSFFnZUQwaU1USWlJSGs5SWpJNE1DSWdZMnhoYzNNOUlteHBibVZEYjNWdWRDSStNVFE4TDNSbGVIUStQSFJsZUhRZ2VEMGlNVElpSUhrOUlqTXdNQ0lnWTJ4aGMzTTlJbXhwYm1WRGIzVnVkQ0krTVRVOEwzUmxlSFErUEhSbGVIUWdlRDBpTVRJaUlIazlJak15TUNJZ1kyeGhjM005SW14cGJtVkRiM1Z1ZENJK01UWThMM1JsZUhRK1BIUmxlSFFnZUQwaU1USWlJSGs5SWpNME1DSWdZMnhoYzNNOUlteHBibVZEYjNWdWRDSStNVGM4TDNSbGVIUStQSFJsZUhRZ2VEMGlNVElpSUhrOUlqTTJNQ0lnWTJ4aGMzTTlJbXhwYm1WRGIzVnVkQ0krTVRnOEwzUmxlSFErUEhSbGVIUWdlRDBpTVRJaUlIazlJak00TUNJZ1kyeGhjM005SW14cGJtVkRiM1Z1ZENJK01UazhMM1JsZUhRK1BIUmxlSFFnZUQwaU1USWlJSGs5SWpRd01DSWdZMnhoYzNNOUlteHBibVZEYjNWdWRDSStNakE4TDNSbGVIUStQSFJsZUhRZ2VEMGlNVElpSUhrOUlqUXlNQ0lnWTJ4aGMzTTlJbXhwYm1WRGIzVnVkQ0krTWpFOEwzUmxlSFErUEhSbGVIUWdlRDBpTVRJaUlIazlJalEwTUNJZ1kyeGhjM005SW14cGJtVkRiM1Z1ZENJK01qSThMM1JsZUhRK1BIUmxlSFFnZUQwaU1USWlJSGs5SWpRMk1DSWdZMnhoYzNNOUlteHBibVZEYjNWdWRDSStNak04TDNSbGVIUStQSFJsZUhRZ2VEMGlNVElpSUhrOUlqUTRNQ0lnWTJ4aGMzTTlJbXhwYm1WRGIzVnVkQ0krTWpROEwzUmxlSFErUEhSbGVIUWdlRDBpTVRJaUlIazlJalV3TUNJZ1kyeGhjM005SW14cGJtVkRiM1Z1ZENJK01qVThMM1JsZUhRK1BIUmxlSFFnZUQwaU1USWlJSGs5SWpVeU1DSWdZMnhoYzNNOUlteHBibVZEYjNWdWRDSStNalk4TDNSbGVIUStQSFJsZUhRZ2VEMGlNVElpSUhrOUlqVTBNQ0lnWTJ4aGMzTTlJbXhwYm1WRGIzVnVkQ0krTWpjOEwzUmxlSFErUEhSbGVIUWdlRDBpTVRJaUlIazlJalUyTUNJZ1kyeGhjM005SW14cGJtVkRiM1Z1ZENJK01qZzhMM1JsZUhRK1BIUmxlSFFnZUQwaU1USWlJSGs5SWpVNE1DSWdZMnhoYzNNOUlteHBibVZEYjNWdWRDSStNams4TDNSbGVIUStQSFJsZUhRZ2VEMGlNVElpSUhrOUlqWXdNQ0lnWTJ4aGMzTTlJbXhwYm1WRGIzVnVkQ0krTXpBOEwzUmxlSFErUEhSbGVIUWdlRDBpTVRJaUlIazlJall5TUNJZ1kyeGhjM005SW14cGJtVkRiM1Z1ZENJK016RThMM1JsZUhRK1BIUmxlSFFnZUQwaU1USWlJSGs5SWpZME1DSWdZMnhoYzNNOUlteHBibVZEYjNWdWRDSStNekk4TDNSbGVIUStQSFJsZUhRZ2VEMGlNekFpSUhrOUlqSXdJaUJqYkdGemN6MGlhMlY1ZDI5eVpDSStkWE5wYm1jOEwzUmxlSFErUEhSbGVIUWdlRDBpTnpBaUlIazlJakl3SWlCamJHRnpjejBpWW1GelpTSStVM2x6ZEdWdE96d3ZkR1Y0ZEQ0OGRHVjRkQ0I0UFNJek1DSWdlVDBpTkRBaUlHTnNZWE56UFNKclpYbDNiM0prSWo1MWMybHVaend2ZEdWNGRENDhkR1Y0ZENCNFBTSTNNQ0lnZVQwaU5EQWlJR05zWVhOelBTSmlZWE5sSWo1VGVYTjBaVzB1U1U4N1BDOTBaWGgwUGp4MFpYaDBJSGc5SWpNd0lpQjVQU0kyTUNJZ1kyeGhjM005SW10bGVYZHZjbVFpUG5WemFXNW5QQzkwWlhoMFBqeDBaWGgwSUhnOUlqY3dJaUI1UFNJMk1DSWdZMnhoYzNNOUltSmhjMlVpUGxONWMzUmxiUzVVWlhoMExrcHpiMjQ3UEM5MFpYaDBQangwWlhoMElIZzlJak13SWlCNVBTSTRNQ0lnWTJ4aGMzTTlJbXRsZVhkdmNtUWlQblZ6YVc1blBDOTBaWGgwUGp4MFpYaDBJSGc5SWpjd0lpQjVQU0k0TUNJZ1kyeGhjM005SW1KaGMyVWlQa2RoYldWWGIzSnJjM0JoWTJVdVFYVjBhRlYwYVd4ek96d3ZkR1Y0ZEQ0OGRHVjRkQ0I0UFNJek1DSWdlVDBpTVRJd0lpQmpiR0Z6Y3owaWEyVjVkMjl5WkNJK1kyeGhjM004TDNSbGVIUStQSFJsZUhRZ2VEMGlOamdpSUhrOUlqRXlNQ0lnWTJ4aGMzTTlJbUpoYzJVaVBuQnNZWGxsY2lCN1BDOTBaWGgwUGp4MFpYaDBJSGc5SWpJM01DSWdlVDBpTWpBd0lpQmpiR0Z6Y3owaWEyVjVkMjl5WkNJK2NISnBkbUYwWlNCemRISnBibWM4TDNSbGVIUStQSFJsZUhRZ2VEMGlNemN3SWlCNVBTSXlNREFpSUdOc1lYTnpQU0ppWVhObElqNWphR0Z5WVdOMFpYSkRiR0Z6Y3lBOUlDSkNZWEowWlc1a1pYSWlPend2ZEdWNGRENDhkR1Y0ZENCNFBTSTFNQ0lnZVQwaU1UWXdJaUJqYkdGemN6MGlhMlY1ZDI5eVpDSStjSEpwZG1GMFpTQnpkSEpwYm1jOEwzUmxlSFErUEhSbGVIUWdlRDBpTVRRNElpQjVQU0l4TmpBaUlHTnNZWE56UFNKaVlYTmxJajVqYUdGeVlXTjBaWEpIWlc1a1pYSWdQU0FpUm1WdFlXeGxJanM4TDNSbGVIUStQSFJsZUhRZ2VEMGlNekkxSWlCNVBTSXhOakFpSUdOc1lYTnpQU0pyWlhsM2IzSmtJajV3Y21sMllYUmxJSE4wY21sdVp6d3ZkR1Y0ZEQ0OGRHVjRkQ0I0UFNJME1qVWlJSGs5SWpFMk1DSWdZMnhoYzNNOUltSmhjMlVpUG1Ob1lYSmhZM1JsY2xKaFkyVWdQU0FpU0hWdFlXNGlPend2ZEdWNGRENDhkR1Y0ZENCNFBTSTFNQ0lnZVQwaU1UZ3dJaUJqYkdGemN6MGlhMlY1ZDI5eVpDSStjSEpwZG1GMFpTQnBiblE4TDNSbGVIUStQSFJsZUhRZ2VEMGlNVE13SWlCNVBTSXhPREFpSUdOc1lYTnpQU0ppWVhObElqNXpkSEpsYm1kMGFDQTlJRFkzT3p3dmRHVjRkRDQ4ZEdWNGRDQjRQU0l5TXpBaUlIazlJakU0TUNJZ1kyeGhjM005SW10bGVYZHZjbVFpUG5CeWFYWmhkR1VnYVc1MFBDOTBaWGgwUGp4MFpYaDBJSGc5SWpNeE1DSWdlVDBpTVRnd0lpQmpiR0Z6Y3owaVltRnpaU0krYVc1MFpXeHNhV2RsYm1ObElEMGdNekk3UEM5MFpYaDBQangwWlhoMElIZzlJalV3SWlCNVBTSXlNREFpSUdOc1lYTnpQU0pyWlhsM2IzSmtJajV3Y21sMllYUmxJR2x1ZER3dmRHVjRkRDQ4ZEdWNGRDQjRQU0l4TXpBaUlIazlJakl3TUNJZ1kyeGhjM005SW1KaGMyVWlQbUYwZEhKaFkzUnBkbVZ1WlhOeklEMGdNakk3UEM5MFpYaDBQangwWlhoMElIZzlJak15TUNJZ2VUMGlNVFF3SWlCamJHRnpjejBpYTJWNWQyOXlaQ0krY0hKcGRtRjBaU0JwYm5ROEwzUmxlSFErUEhSbGVIUWdlRDBpTkRBd0lpQjVQU0l4TkRBaUlHTnNZWE56UFNKaVlYTmxJajUwWldOb1UydHBiR3dnUFNBM05UczhMM1JsZUhRK1BIUmxlSFFnZUQwaU5EUXdJaUI1UFNJeE9EQWlJR05zWVhOelBTSnJaWGwzYjNKa0lqNXdjbWwyWVhSbElHbHVkRHd2ZEdWNGRENDhkR1Y0ZENCNFBTSTFNakFpSUhrOUlqRTRNQ0lnWTJ4aGMzTTlJbUpoYzJVaVBtTnZiMndnUFNBME1EczhMM1JsZUhRK1BIUmxlSFFnZUQwaU16UTFJaUI1UFNJeU1qQWlJR05zWVhOelBTSnJaWGwzYjNKa0lqNXdjbWwyWVhSbElHbHVkRHd2ZEdWNGRENDhkR1Y0ZENCNFBTSTBNalVpSUhrOUlqSXlNQ0lnWTJ4aGMzTTlJbUpoYzJVaVBtTnlaV1JwZEhNZ1BTQXlPVFE3UEM5MFpYaDBQangwWlhoMElIZzlJalV3SWlCNVBTSXlNakFpSUdOc1lYTnpQU0pyWlhsM2IzSmtJajV3Y21sMllYUmxJSE4wY21sdVp6d3ZkR1Y0ZEQ0OGRHVjRkQ0I0UFNJeE5UQWlJSGs5SWpJeU1DSWdZMnhoYzNNOUltSmhjMlVpUG1Ob1lYSmhZM1JsY2tWNVpYTWdQU0FpVkdseVpXUWlPend2ZEdWNGRENDhkR1Y0ZENCNFBTSTFNQ0lnZVQwaU1UUXdJaUJqYkdGemN6MGlhMlY1ZDI5eVpDSStjSEpwZG1GMFpTQnpkSEpwYm1jOEwzUmxlSFErUEhSbGVIUWdlRDBpTVRVd0lpQjVQU0l4TkRBaUlHTnNZWE56UFNKaVlYTmxJajVqY21Wa2FYUlphV1ZzWkNBOUlDSk1iM2NpT3p3dmRHVjRkRDQ4ZEdWNGRDQjRQU0kxTUNJZ2VUMGlNalF3SWlCamJHRnpjejBpYTJWNWQyOXlaQ0krY0hKcGRtRjBaU0J6ZEhKcGJtYzhMM1JsZUhRK1BIUmxlSFFnZUQwaU1UVXdJaUI1UFNJeU5EQWlJR05zWVhOelBTSmlZWE5sSWo1aFltbHNhWFI1SUQwZ0lrNXZibVVpT3p3dmRHVjRkRDQ4ZEdWNGRDQjRQU0l6TXpBaUlIazlJakkwTUNJZ1kyeGhjM005SW1KaGMyVWlQbjA3UEM5MFpYaDBQangwWlhoMElIZzlJak0xTUNJZ2VUMGlNalF3SWlCamJHRnpjejBpYkdsdVpVTnZkVzUwSWo0dkwwUkJXU0JQVGtVZ1ZWQk1UMEZFSUVsRVJVNVVTVlJaUEM5MFpYaDBQangwWlhoMElIZzlJak13SWlCNVBTSXlOakFpSUdOc1lYTnpQU0pyWlhsM2IzSmtJajVwYm5ROEwzUmxlSFErUEhSbGVIUWdlRDBpTmpBaUlIazlJakkyTUNJZ1kyeGhjM005SW1KaGMyVWlQbTFoYVc0b1BDOTBaWGgwUGp4MFpYaDBJSGc5SWprMUlpQjVQU0l5TmpBaUlHTnNZWE56UFNKclpYbDNiM0prSWo1emRISnBibWM4TDNSbGVIUStQSFJsZUhRZ2VEMGlNVE0xSWlCNVBTSXlOakFpSUdOc1lYTnpQU0ppWVhObElqNWJYU0JoY21kektTQjdQQzkwWlhoMFBqeDBaWGgwSUhnOUlqVXdJaUI1UFNJeU9EQWlJR05zWVhOelBTSnJaWGwzYjNKa0lqNXdiR0Y1WlhJOEwzUmxlSFErUEhSbGVIUWdlRDBpT1RnaUlIazlJakk0TUNJZ1kyeGhjM005SW1KaGMyVWlQblZ1YVhGMVpVTm9ZWEpoWTNSbGNpQTlJRWRsYm1WeVlYUmxRMmhoY21GamRHVnlLQ2s3UEM5MFpYaDBQangwWlhoMElIZzlJalV3SWlCNVBTSXpNREFpSUdOc1lYTnpQU0ppWVhObElqNUJjSEJzZVVOeVpXUnBkSE1vZFc1cGNYVmxRMmhoY21GamRHVnlLVHM4TDNSbGVIUStQSFJsZUhRZ2VEMGlOVEFpSUhrOUlqTXlNQ0lnWTJ4aGMzTTlJbXRsZVhkdmNtUWlQblJ5ZVR3dmRHVjRkRDQ4ZEdWNGRDQjRQU0kzTUNJZ2VUMGlNekl3SWlCamJHRnpjejBpWW1GelpTSStlend2ZEdWNGRENDhkR1Y0ZENCNFBTSTVNQ0lnZVQwaU16SXdJaUJqYkdGemN6MGlhMlY1ZDI5eVpDSStjM1J5YVc1blBDOTBaWGgwUGp4MFpYaDBJSGc5SWpFek9DSWdlVDBpTXpJd0lpQmpiR0Z6Y3owaVltRnpaU0krYW5OdmJpQTlJRXB6YjI1VFpYSnBZV3hwZW1WeUxsTmxjbWxoYkdsNlpTaDFibWx4ZFdWRGFHRnlZV04wWlhJcE96d3ZkR1Y0ZEQ0OGRHVjRkQ0I0UFNJM01DSWdlVDBpTXpRd0lpQmpiR0Z6Y3owaWEyVjVkMjl5WkNJK2FXWThMM1JsZUhRK1BIUmxlSFFnZUQwaU9UQWlJSGs5SWpNME1DSWdZMnhoYzNNOUltSmhjMlVpUGlocWMyOXVJQ0U5UEM5MFpYaDBQangwWlhoMElIZzlJakUxTUNJZ2VUMGlNelF3SWlCamJHRnpjejBpYTJWNWQyOXlaQ0krYm5Wc2JEd3ZkR1Y0ZEQ0OGRHVjRkQ0I0UFNJeE9EVWlJSGs5SWpNME1DSWdZMnhoYzNNOUltSmhjMlVpUGlaaGJYQTdKbUZ0Y0RzZ2FuTnZiaTVNWlc1bmRHZ2dKbWQwT3lBd0tUd3ZkR1Y0ZEQ0OGRHVjRkQ0I0UFNJek1UVWlJSGs5SWpNME1DSWdZMnhoYzNNOUltSmhjMlVpUG5zOEwzUmxlSFErUEhSbGVIUWdlRDBpTXpJNElpQjVQU0l6TkRBaUlHTnNZWE56UFNKbmJHOWlZV3dpUGtacGJHVThMM1JsZUhRK1BIUmxlSFFnZUQwaU16VTFJaUI1UFNJek5EQWlJR05zWVhOelBTSmlZWE5sSWo0dVYzSnBkR1ZCYkd4VVpYaDBLRHd2ZEdWNGRENDhkR1Y0ZENCNFBTSTBORGdpSUhrOUlqTTBNQ0lnWTJ4aGMzTTlJbWRzYjJKaGJDSStSVzUyYVhKdmJtMWxiblE4TDNSbGVIUStQSFJsZUhRZ2VEMGlOVEl3SWlCNVBTSXpOREFpSUdOc1lYTnpQU0ppWVhObElqNHVRM1Z5Y21WdWRFUnBjbVZqZEc5eWVUd3ZkR1Y0ZEQ0OGRHVjRkQ0I0UFNJNU1DSWdlVDBpTXpZd0lpQmpiR0Z6Y3owaVltRnpaU0krS3lBaUwwTm9ZWEpoWTNSbGNsTjBiM0poWjJVdlEyaGhjbUZqZEdWeUxTSWdLeUIwYjJ0bGJrbGtMblJ2VTNSeWFXNW5LQ2tnS3lBaUxtcHpiMjRpTENCcWMyOXVPeUI5SUgwOEwzUmxlSFErUEhSbGVIUWdlRDBpTlRBaUlIazlJak00TUNJZ1kyeGhjM005SW1KaGMyVWlQbU5oZEdOb0lDaFRaWEpwWVd4cGVtRjBhVzl1UlhoalpYQjBhVzl1SUdVcElIdDlQQzkwWlhoMFBqeDBaWGgwSUhnOUlqVXdJaUI1UFNJME1EQWlJR05zWVhOelBTSmlZWE5sSWo1dFpYUmhkbVZ5YzJWUFltcGxZM1J6TGtGa1pDaDFibWx4ZFdWRGFHRnlZV04wWlhJcE96d3ZkR1Y0ZEQ0OGRHVjRkQ0I0UFNJMU1DSWdlVDBpTkRJd0lpQmpiR0Z6Y3owaWEyVjVkMjl5WkNJK1YyVmlVMjlqYTJWMFBDOTBaWGgwUGp4MFpYaDBJSGc5SWpFeE5TSWdlVDBpTkRJd0lpQmpiR0Z6Y3owaVltRnpaU0krUFR3dmRHVjRkRDQ4ZEdWNGRDQjRQU0l4TWpVaUlIazlJalF5TUNJZ1kyeGhjM005SW10bGVYZHZjbVFpUG01bGR6d3ZkR1Y0ZEQ0OGRHVjRkQ0I0UFNJeE5UQWlJSGs5SWpReU1DSWdZMnhoYzNNOUltSmhjMlVpUGxkbFlsTnZZMnRsZENoM2MweHZZMkYwYVc5dUtUczhMM1JsZUhRK1BIUmxlSFFnZUQwaU5UQWlJSGs5SWpRME1DSWdZMnhoYzNNOUltdGxlWGR2Y21RaVBsUmhjMnM4TDNSbGVIUStQSFJsZUhRZ2VEMGlPREFpSUhrOUlqUTBNQ0lnWTJ4aGMzTTlJbUpoYzJVaVBsOTBJRDA4TDNSbGVIUStQSFJsZUhRZ2VEMGlNVEV3SWlCNVBTSTBOREFpSUdOc1lYTnpQU0pyWlhsM2IzSmtJajVoZDJGcGREd3ZkR1Y0ZEQ0OGRHVjRkQ0I0UFNJeE5UQWlJSGs5SWpRME1DSWdZMnhoYzNNOUltSmhjMlVpUG1OdmJtNWxZM1JwYjI0dWMyVnVaQ2dpVlhCc2IyRmthVzVuSUdOb1lYSmhZM1JsY2lCa1lYUmhPaUFpSUNzZ2FuTnZiaWs3UEM5MFpYaDBQangwWlhoMElIZzlJalV3SWlCNVBTSTBOakFpSUdOc1lYTnpQU0puYkc5aVlXd2lQa052Ym5OdmJHVThMM1JsZUhRK1BIUmxlSFFnZUQwaU9UZ2lJSGs5SWpRMk1DSWdZMnhoYzNNOUltSmhjMlVpUGk1WGNtbDBaV3hwYm1Vb0lsVndiRzloWkNCMFlYTnJJSE4wWVhSMWN5QTZJaUFySUY5MExsTjBZWFIxY3lrN1BDOTBaWGgwUGp4MFpYaDBJSGc5SWpVd0lpQjVQU0kwT0RBaUlHTnNZWE56UFNKclpYbDNiM0prSWo1M2FHbHNaVHd2ZEdWNGRENDhkR1Y0ZENCNFBTSTROU0lnZVQwaU5EZ3dJaUJqYkdGemN6MGlZbUZ6WlNJK0tDRmZkQzVKYzBOdmJYQnNaWFJsWkNrZ2V5QlVhSEpsWVdRdVUyeGxaWEFvTlRBd0tUc2dmVHd2ZEdWNGRENDhkR1Y0ZENCNFBTSTFNQ0lnZVQwaU5UQXdJaUJqYkdGemN6MGlaMnh2WW1Gc0lqNURiMjV6YjJ4bFBDOTBaWGgwUGp4MFpYaDBJSGc5SWprNElpQjVQU0kxTURBaUlHTnNZWE56UFNKaVlYTmxJajR1VjNKcGRHVnNhVzVsS0NKVmNHeHZZV1FnZEdGemF5QmpiMjF3YkdWMFpXUWlLVHM4TDNSbGVIUStQSFJsZUhRZ2VEMGlOVEFpSUhrOUlqVXlNQ0lnWTJ4aGMzTTlJbUpoYzJVaVBrTnlaV0YwWlVOb1lYSmhZM1JsY2tsdWRHVnlabUZqWlVobFlXUmxjbk1vZFc1cGNYVmxRMmhoY21GamRHVnlMQ0F3TENBd0xDQm9iM1Z6YVc1blVHRnlZVzF6VzEwc0lDcHVaWFIzYjNKclFYSnlZWGtwT3p3dmRHVjRkRDQ4ZEdWNGRDQjRQU0kxTUNJZ2VUMGlOVFF3SWlCamJHRnpjejBpWW1GelpTSStWbUZzYVdSaGRHVkJkWFJvVkc5clpXNG9kVzVwY1hWbFEyaGhjbUZqZEdWeUxDQm9iM1Z6YVc1blVHRnlZVzF6VzEwc0lDcHVaWFIzYjNKclFYSnlZWGtwT3p3dmRHVjRkRDQ4ZEdWNGRDQjRQU0kxTUNJZ2VUMGlOVFl3SWlCamJHRnpjejBpWW1GelpTSStWbVZ5YVdaNVEyaGhjbUZqZEdWeVRHbHVhMlZrVEdsemRDZ3FLbVJoZEdGaVlYTmxMbE4wYjNKaFoyVXVRMHhNTGloMWJtbHhkV1ZEYUdGeVlXTjBaWElwTENBcWJtVjBkMjl5YTBGeWNtRjVLVHM4TDNSbGVIUStQSFJsZUhRZ2VEMGlOVEFpSUhrOUlqVTRNQ0lnWTJ4aGMzTTlJbWRzYjJKaGJDSStRMjl1YzI5c1pUd3ZkR1Y0ZEQ0OGRHVjRkQ0I0UFNJNU9DSWdlVDBpTlRnd0lpQmpiR0Z6Y3owaVltRnpaU0krTGxkeWFYUmxiR2x1WlNoUWJHRjVaWEpUZEdGMFpVTm9aV05yS0hWdWFYRjFaVU5vWVhKaFkzUmxjaWtwT3p3dmRHVjRkRDQ4ZEdWNGRDQjRQU0kxTUNJZ2VUMGlOakF3SWlCamJHRnpjejBpWjJ4dlltRnNJajVEYjI1emIyeGxQQzkwWlhoMFBqeDBaWGgwSUhnOUlqazRJaUI1UFNJMk1EQWlJR05zWVhOelBTSmlZWE5sSWo0dVYzSnBkR1ZzYVc1bEtDSlhaV3hqYjIxbElFTnBkR2w2Wlc0aElpazdQQzkwWlhoMFBqeDBaWGgwSUhnOUlqVXdJaUI1UFNJMk1qQWlJR05zWVhOelBTSnJaWGwzYjNKa0lqNXlaWFIxY200OEwzUmxlSFErUEhSbGVIUWdlRDBpT1RnaUlIazlJall5TUNJZ1kyeGhjM005SW1KaGMyVWlQakE3UEM5MFpYaDBQangwWlhoMElIZzlJak13SWlCNVBTSTJOREFpSUdOc1lYTnpQU0ppWVhObElqNTlQQzkwWlhoMFBqd3ZjM1puUGc9PSJ9",
+    "owner": {
+        "user": {
+            "username": "bandsyyy"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/23.png",
+        "address": "0x661a49476c0821dc790972000ea941c3e851e7af",
+        "config": ""
+    },
+    "sell_orders": null,
+    "creator": {
+        "user": {
+            "username": "NeoTokyoCitadel"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+        "address": "0xa8da6166cbd2876ccde424ee2a717c355be4702b",
+        "config": ""
+    },
+    "traits": [
+        {
+            "trait_type": "Status",
+            "value": "First Citizen",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 2018,
+            "order": null
+        },
+        {
+            "trait_type": "Ability",
+            "value": "None",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 1798,
+            "order": null
+        },
+        {
+            "trait_type": "Credit Yield",
+            "value": "Low",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 1479,
+            "order": null
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Female",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 1042,
+            "order": null
+        },
+        {
+            "trait_type": "Strength",
+            "value": 67,
+            "display_type": null,
+            "max_value": "100",
+            "trait_count": 0,
+            "order": null
+        },
+        {
+            "trait_type": "Race",
+            "value": "Human",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 1194,
+            "order": null
+        },
+        {
+            "trait_type": "Credits",
+            "value": 294,
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 0,
+            "order": null
+        },
+        {
+            "trait_type": "Intelligence",
+            "value": 32,
+            "display_type": null,
+            "max_value": "100",
+            "trait_count": 0,
+            "order": null
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tired",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 165,
+            "order": null
+        },
+        {
+            "trait_type": "Cool",
+            "value": 40,
+            "display_type": null,
+            "max_value": "100",
+            "trait_count": 0,
+            "order": null
+        },
+        {
+            "trait_type": "Class",
+            "value": "Bartender",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 123,
+            "order": null
+        },
+        {
+            "trait_type": "Tech Skill",
+            "value": 75,
+            "display_type": null,
+            "max_value": "100",
+            "trait_count": 0,
+            "order": null
+        },
+        {
+            "trait_type": "Attractiveness",
+            "value": 22,
+            "display_type": null,
+            "max_value": "100",
+            "trait_count": 0,
+            "order": null
+        }
+    ],
+    "last_sale": {
+        "asset": {
+            "token_id": "1793",
+            "decimals": 0
+        },
+        "asset_bundle": null,
+        "event_type": "successful",
+        "event_timestamp": "2021-10-06T09:32:18",
+        "auction_type": null,
+        "total_price": "8990000000000000000",
+        "payment_token": {
+            "id": 1,
+            "symbol": "ETH",
+            "address": "0x0000000000000000000000000000000000000000",
+            "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+            "name": "Ether",
+            "decimals": 18,
+            "eth_price": "1.000000000000000",
+            "usd_price": "4232.829999999999927000"
+        },
+        "transaction": {
+            "block_hash": "0xf8484bea6aba6234c8b27d42b40a3e5cf436ae6891d80a33012fa4f39a0fc37b",
+            "block_number": "13364607",
+            "from_account": {
+                "user": {
+                    "username": "bandsyyy"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/23.png",
+                "address": "0x661a49476c0821dc790972000ea941c3e851e7af",
+                "config": ""
+            },
+            "id": 176842595,
+            "timestamp": "2021-10-06T09:32:18",
+            "to_account": {
+                "user": {
+                    "username": "OpenSea-Orders"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+                "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+                "config": "verified"
+            },
+            "transaction_hash": "0xdf73e16a3bbc52bdaa52be4602b067844e36641c70ae3298a42739e8973ae915",
+            "transaction_index": "115"
+        },
+        "created_date": "2021-10-06T09:32:38.074878",
+        "quantity": "1"
+    },
+    "top_bid": null,
+    "listing_date": null,
+    "is_presale": false,
+    "transfer_fee_payment_token": null,
+    "transfer_fee": null,
+    "related_assets": [],
+    "orders": [
+        {
+            "created_date": "2021-10-28T19:28:20.417039",
+            "closing_date": "2021-10-29T19:28:07",
+            "closing_extendable": false,
+            "expiration_time": 1635535687,
+            "listing_time": 1635449195,
+            "order_hash": "0x8b8a0b75c09d3710e7a2d63539412f03e87dccd75a2c1cc2e7b12e85de090677",
+            "metadata": {
+                "asset": {
+                    "id": "1793",
+                    "address": "0x86357a19e5537a8fba9a004e555713bc943a66c0"
+                },
+                "schema": "ERC721",
+                "referrerAddress": "0x5c5321ae45550685308a405827575e3d6b4a84aa"
+            },
+            "exchange": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "maker": {
+                "user": {
+                    "username": "dxt_bukue"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/6.png",
+                "address": "0xde70bdf7dfe13614d281716813274380a59e3e5d",
+                "config": ""
+            },
+            "taker": {
+                "user": {
+                    "username": "NullAddress"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+                "address": "0x0000000000000000000000000000000000000000",
+                "config": ""
+            },
+            "current_price": "7500000000000000000.000000000",
+            "current_bounty": "75000000000000000",
+            "bounty_multiple": "0.01",
+            "maker_relayer_fee": "0",
+            "taker_relayer_fee": "750",
+            "maker_protocol_fee": "0",
+            "taker_protocol_fee": "0",
+            "maker_referrer_fee": "0",
+            "fee_recipient": {
+                "user": {
+                    "username": "OS-Wallet"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+                "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+                "config": "verified"
+            },
+            "fee_method": 1,
+            "side": 0,
+            "sale_kind": 0,
+            "target": "0x86357a19e5537a8fba9a004e555713bc943a66c0",
+            "how_to_call": 0,
+            "calldata": "0x23b872dd0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000de70bdf7dfe13614d281716813274380a59e3e5d0000000000000000000000000000000000000000000000000000000000000701",
+            "replacement_pattern": "0x00000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+            "static_target": "0x0000000000000000000000000000000000000000",
+            "static_extradata": "0x",
+            "payment_token": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "payment_token_contract": {
+                "id": 2,
+                "symbol": "WETH",
+                "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "image_url": "https://storage.opensea.io/files/accae6b6fb3888cbff27a013729c22dc.svg",
+                "name": "Wrapped Ether",
+                "decimals": 18,
+                "eth_price": "1.000000000000000",
+                "usd_price": "4244.770000000000437000"
+            },
+            "base_price": "7500000000000000000",
+            "extra": "0",
+            "quantity": "1",
+            "salt": "18916511601246291031435602230367083203648049208268996751908383425453617196282",
+            "v": 27,
+            "r": "0x486ceb86d2f8544ab8366e69149884aa69735bfa4777559c9f07123f8e73d23f",
+            "s": "0x233ddb7a594b993d3cc68ea3dcffeaa9eec2651ba02d4dd749ec2402ffb18ba4",
+            "approved_on_chain": false,
+            "cancelled": false,
+            "finalized": false,
+            "marked_invalid": false,
+            "prefixed_hash": "0x25c36f53d8e84229845c01e8b7890e561506bae6ac5faa7bf56d23de23f0c748"
+        },
+        {
+            "created_date": "2021-10-28T17:23:20.331734",
+            "closing_date": "2021-10-28T21:23:19",
+            "closing_extendable": false,
+            "expiration_time": 1635456199,
+            "listing_time": 1635441699,
+            "order_hash": "0x2238b8e66994ac3756aa8b098054322402e763a4f9bd9969aa23bf6369f4b2c9",
+            "metadata": {
+                "asset": {
+                    "id": "1793",
+                    "address": "0x86357a19e5537a8fba9a004e555713bc943a66c0"
+                },
+                "schema": "ERC721",
+                "referrerAddress": ""
+            },
+            "exchange": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "maker": {
+                "user": null,
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/2.png",
+                "address": "0xc2f3a0e8ac76dd3533ff2e15bef3c0239453053f",
+                "config": ""
+            },
+            "taker": {
+                "user": {
+                    "username": "NullAddress"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+                "address": "0x0000000000000000000000000000000000000000",
+                "config": ""
+            },
+            "current_price": "5799800000000000000.000000000",
+            "current_bounty": "57998000000000000",
+            "bounty_multiple": "0.01",
+            "maker_relayer_fee": "0",
+            "taker_relayer_fee": "750",
+            "maker_protocol_fee": "0",
+            "taker_protocol_fee": "0",
+            "maker_referrer_fee": "0",
+            "fee_recipient": {
+                "user": {
+                    "username": "OS-Wallet"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+                "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+                "config": "verified"
+            },
+            "fee_method": 1,
+            "side": 0,
+            "sale_kind": 0,
+            "target": "0x86357a19e5537a8fba9a004e555713bc943a66c0",
+            "how_to_call": 0,
+            "calldata": "0x23b872dd0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000c2f3a0e8ac76dd3533ff2e15bef3c0239453053f0000000000000000000000000000000000000000000000000000000000000701",
+            "replacement_pattern": "0x00000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+            "static_target": "0x0000000000000000000000000000000000000000",
+            "static_extradata": "0x",
+            "payment_token": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "payment_token_contract": {
+                "id": 2,
+                "symbol": "WETH",
+                "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "image_url": "https://storage.opensea.io/files/accae6b6fb3888cbff27a013729c22dc.svg",
+                "name": "Wrapped Ether",
+                "decimals": 18,
+                "eth_price": "1.000000000000000",
+                "usd_price": "4244.770000000000437000"
+            },
+            "base_price": "5799800000000000000",
+            "extra": "0",
+            "quantity": "1",
+            "salt": "61738389677146151634131851823139797990689837756843322576016218811112000938266",
+            "v": 28,
+            "r": "0xa8d6d5c3db92df1761ad9434326e0e64d103096b868d8f43570428c14e54ee2d",
+            "s": "0x467ec105629e3f399a99bfb05a3b9bbc3e7b8f739acc97a60b32ec5a4ecf5c27",
+            "approved_on_chain": false,
+            "cancelled": false,
+            "finalized": false,
+            "marked_invalid": false,
+            "prefixed_hash": "0x68e75e7a408d9ee30925e71b03e58961c5eb667a93909442f039e3ba1348b708"
+        },
+        {
+            "created_date": "2021-10-28T06:56:07.945498",
+            "closing_date": "2021-10-29T06:55:59",
+            "closing_extendable": false,
+            "expiration_time": 1635490559,
+            "listing_time": 1635404065,
+            "order_hash": "0x1c5dc31225abef535c0c80affb77ad28efd1fb66b201a927e9cc64e797141419",
+            "metadata": {
+                "asset": {
+                    "id": "1793",
+                    "address": "0x86357a19e5537a8fba9a004e555713bc943a66c0"
+                },
+                "schema": "ERC721"
+            },
+            "exchange": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "maker": {
+                "user": {
+                    "username": "OneEyedWilly"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/33.png",
+                "address": "0xb113ad0e6e4836c18aa3979881ea68248e296f9c",
+                "config": ""
+            },
+            "taker": {
+                "user": {
+                    "username": "NullAddress"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+                "address": "0x0000000000000000000000000000000000000000",
+                "config": ""
+            },
+            "current_price": "6000000000000000000.000000000",
+            "current_bounty": "60000000000000000",
+            "bounty_multiple": "0.01",
+            "maker_relayer_fee": "0",
+            "taker_relayer_fee": "750",
+            "maker_protocol_fee": "0",
+            "taker_protocol_fee": "0",
+            "maker_referrer_fee": "0",
+            "fee_recipient": {
+                "user": {
+                    "username": "OS-Wallet"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+                "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+                "config": "verified"
+            },
+            "fee_method": 1,
+            "side": 0,
+            "sale_kind": 0,
+            "target": "0x86357a19e5537a8fba9a004e555713bc943a66c0",
+            "how_to_call": 0,
+            "calldata": "0x23b872dd0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000b113ad0e6e4836c18aa3979881ea68248e296f9c0000000000000000000000000000000000000000000000000000000000000701",
+            "replacement_pattern": "0x00000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+            "static_target": "0x0000000000000000000000000000000000000000",
+            "static_extradata": "0x",
+            "payment_token": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "payment_token_contract": {
+                "id": 2,
+                "symbol": "WETH",
+                "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "image_url": "https://storage.opensea.io/files/accae6b6fb3888cbff27a013729c22dc.svg",
+                "name": "Wrapped Ether",
+                "decimals": 18,
+                "eth_price": "1.000000000000000",
+                "usd_price": "4244.770000000000437000"
+            },
+            "base_price": "6000000000000000000",
+            "extra": "0",
+            "quantity": "1",
+            "salt": "3076951980768648609798006183043906239888002506788178724108553256739585547913",
+            "v": 28,
+            "r": "0xc486e3455a0ee390f48654ce6decfbd78f72c313ecbd5dd2ca638fb8e337cd2d",
+            "s": "0x26b5a7014c396f4432b89110159fbc26de5bc1db44e138e7a6e3cb3664a4fe46",
+            "approved_on_chain": false,
+            "cancelled": false,
+            "finalized": false,
+            "marked_invalid": false,
+            "prefixed_hash": "0x987515212d139794cef00a13e47d9197090d198c19d11bb2035aebea915c6bfc"
+        },
+        {
+            "created_date": "2021-10-27T21:49:58.968485",
+            "closing_date": "2022-04-27T07:36:33",
+            "closing_extendable": false,
+            "expiration_time": 1651044993,
+            "listing_time": 1635371295,
+            "order_hash": "0x21ecb435eb8ba148f68a6335deba5ea03b7b11f8d4da2e6ea02b0f6ce666d811",
+            "metadata": {
+                "asset": {
+                    "id": "1793",
+                    "address": "0x86357a19e5537a8fba9a004e555713bc943a66c0"
+                },
+                "schema": "ERC721"
+            },
+            "exchange": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "maker": {
+                "user": {
+                    "username": "bandsyyy"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/23.png",
+                "address": "0x661a49476c0821dc790972000ea941c3e851e7af",
+                "config": ""
+            },
+            "taker": {
+                "user": {
+                    "username": "NullAddress"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+                "address": "0x0000000000000000000000000000000000000000",
+                "config": ""
+            },
+            "current_price": "10950000000000000000.00000000",
+            "current_bounty": "109500000000000000",
+            "bounty_multiple": "0.01",
+            "maker_relayer_fee": "750",
+            "taker_relayer_fee": "0",
+            "maker_protocol_fee": "0",
+            "taker_protocol_fee": "0",
+            "maker_referrer_fee": "0",
+            "fee_recipient": {
+                "user": {
+                    "username": "OS-Wallet"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+                "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+                "config": "verified"
+            },
+            "fee_method": 1,
+            "side": 1,
+            "sale_kind": 0,
+            "target": "0x86357a19e5537a8fba9a004e555713bc943a66c0",
+            "how_to_call": 0,
+            "calldata": "0x23b872dd000000000000000000000000661a49476c0821dc790972000ea941c3e851e7af00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000701",
+            "replacement_pattern": "0x000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000",
+            "static_target": "0x0000000000000000000000000000000000000000",
+            "static_extradata": "0x",
+            "payment_token": "0x0000000000000000000000000000000000000000",
+            "payment_token_contract": {
+                "id": 1,
+                "symbol": "ETH",
+                "address": "0x0000000000000000000000000000000000000000",
+                "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+                "name": "Ether",
+                "decimals": 18,
+                "eth_price": "1.000000000000000",
+                "usd_price": "4232.829999999999927000"
+            },
+            "base_price": "10950000000000000000",
+            "extra": "0",
+            "quantity": "1",
+            "salt": "58490194512835637379040874702216918032517557357859726729246350823551800024164",
+            "v": 27,
+            "r": "0xd9f25473b54b76b345b1786d57d5e6d66fab4d00a45f94a21960ad32a6206079",
+            "s": "0x182062d548c7b460a43e33340e10c5b4f76d736d51351def848c27c2101ed903",
+            "approved_on_chain": false,
+            "cancelled": false,
+            "finalized": false,
+            "marked_invalid": false,
+            "prefixed_hash": "0xc696df9fc83c6095a29b1469f22b474e52f1d6c2dcd7dfef1921fc38764f1e36"
+        },
+        {
+            "created_date": "2021-10-27T16:39:47.202401",
+            "closing_date": "2022-04-27T07:36:33",
+            "closing_extendable": false,
+            "expiration_time": 1651044993,
+            "listing_time": 1635352683,
+            "order_hash": "0xcecf863ac23f2bd918f3ad289618709f645a682c5c3c4dce9c71897859e86aba",
+            "metadata": {
+                "asset": {
+                    "id": "1793",
+                    "address": "0x86357a19e5537a8fba9a004e555713bc943a66c0"
+                },
+                "schema": "ERC721"
+            },
+            "exchange": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "maker": {
+                "user": {
+                    "username": "bandsyyy"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/23.png",
+                "address": "0x661a49476c0821dc790972000ea941c3e851e7af",
+                "config": ""
+            },
+            "taker": {
+                "user": {
+                    "username": "NullAddress"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+                "address": "0x0000000000000000000000000000000000000000",
+                "config": ""
+            },
+            "current_price": "10980000000000000000.00000000",
+            "current_bounty": "109800000000000000",
+            "bounty_multiple": "0.01",
+            "maker_relayer_fee": "750",
+            "taker_relayer_fee": "0",
+            "maker_protocol_fee": "0",
+            "taker_protocol_fee": "0",
+            "maker_referrer_fee": "0",
+            "fee_recipient": {
+                "user": {
+                    "username": "OS-Wallet"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+                "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+                "config": "verified"
+            },
+            "fee_method": 1,
+            "side": 1,
+            "sale_kind": 0,
+            "target": "0x86357a19e5537a8fba9a004e555713bc943a66c0",
+            "how_to_call": 0,
+            "calldata": "0x23b872dd000000000000000000000000661a49476c0821dc790972000ea941c3e851e7af00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000701",
+            "replacement_pattern": "0x000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000",
+            "static_target": "0x0000000000000000000000000000000000000000",
+            "static_extradata": "0x",
+            "payment_token": "0x0000000000000000000000000000000000000000",
+            "payment_token_contract": {
+                "id": 1,
+                "symbol": "ETH",
+                "address": "0x0000000000000000000000000000000000000000",
+                "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+                "name": "Ether",
+                "decimals": 18,
+                "eth_price": "1.000000000000000",
+                "usd_price": "4232.829999999999927000"
+            },
+            "base_price": "10980000000000000000",
+            "extra": "0",
+            "quantity": "1",
+            "salt": "50366384305940075789869030246170743850063648632835697056893145419373869334289",
+            "v": 27,
+            "r": "0xd2480baa24e75b29873cdcc2da2325f68cf2017275176d76e7ef6add7d18946b",
+            "s": "0x05bb342787789e207c856ac52592118df1f5ded7ec60047ef494bd5100db0da4",
+            "approved_on_chain": false,
+            "cancelled": false,
+            "finalized": false,
+            "marked_invalid": false,
+            "prefixed_hash": "0x4b1bb5650b0b58bbc33284c1a0a27a30abffb81beaf5f3b00e7fa2a9782aa19d"
+        },
+        {
+            "created_date": "2021-10-27T11:53:02.725543",
+            "closing_date": "2022-04-27T07:36:33",
+            "closing_extendable": false,
+            "expiration_time": 1651044993,
+            "listing_time": 1635335477,
+            "order_hash": "0x0b1221d2ec9eb22429bdb29b1ec2c37bb6785f62d383c7090a86643b9ef8460a",
+            "metadata": {
+                "asset": {
+                    "id": "1793",
+                    "address": "0x86357a19e5537a8fba9a004e555713bc943a66c0"
+                },
+                "schema": "ERC721"
+            },
+            "exchange": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "maker": {
+                "user": {
+                    "username": "bandsyyy"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/23.png",
+                "address": "0x661a49476c0821dc790972000ea941c3e851e7af",
+                "config": ""
+            },
+            "taker": {
+                "user": {
+                    "username": "NullAddress"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+                "address": "0x0000000000000000000000000000000000000000",
+                "config": ""
+            },
+            "current_price": "11000000000000000000.00000000",
+            "current_bounty": "110000000000000000",
+            "bounty_multiple": "0.01",
+            "maker_relayer_fee": "750",
+            "taker_relayer_fee": "0",
+            "maker_protocol_fee": "0",
+            "taker_protocol_fee": "0",
+            "maker_referrer_fee": "0",
+            "fee_recipient": {
+                "user": {
+                    "username": "OS-Wallet"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+                "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+                "config": "verified"
+            },
+            "fee_method": 1,
+            "side": 1,
+            "sale_kind": 0,
+            "target": "0x86357a19e5537a8fba9a004e555713bc943a66c0",
+            "how_to_call": 0,
+            "calldata": "0x23b872dd000000000000000000000000661a49476c0821dc790972000ea941c3e851e7af00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000701",
+            "replacement_pattern": "0x000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000",
+            "static_target": "0x0000000000000000000000000000000000000000",
+            "static_extradata": "0x",
+            "payment_token": "0x0000000000000000000000000000000000000000",
+            "payment_token_contract": {
+                "id": 1,
+                "symbol": "ETH",
+                "address": "0x0000000000000000000000000000000000000000",
+                "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+                "name": "Ether",
+                "decimals": 18,
+                "eth_price": "1.000000000000000",
+                "usd_price": "4232.829999999999927000"
+            },
+            "base_price": "11000000000000000000",
+            "extra": "0",
+            "quantity": "1",
+            "salt": "81397607479250608149042634343514198737426003586865312252970680570380481945258",
+            "v": 28,
+            "r": "0x5996536ac566d9bd8a51e53f3112a03676005f7f6a283f6a1f943b03075b9636",
+            "s": "0x2c0b06dad4507dcc5169c81a77f89781202161c6c917905db62d4f854871f8fe",
+            "approved_on_chain": false,
+            "cancelled": false,
+            "finalized": false,
+            "marked_invalid": false,
+            "prefixed_hash": "0x6d8f8b39a77faa630e3b059ec4404fbbd6a2db0b6b1689995e14916cce42f403"
+        },
+        {
+            "created_date": "2021-10-27T11:37:22.689248",
+            "closing_date": "2022-04-27T07:36:33",
+            "closing_extendable": false,
+            "expiration_time": 1651044993,
+            "listing_time": 1635334538,
+            "order_hash": "0xe75b70c44de34930f78c676dd0bf97a8a05ad72bd8609243fb611d086771750f",
+            "metadata": {
+                "asset": {
+                    "id": "1793",
+                    "address": "0x86357a19e5537a8fba9a004e555713bc943a66c0"
+                },
+                "schema": "ERC721"
+            },
+            "exchange": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "maker": {
+                "user": {
+                    "username": "bandsyyy"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/23.png",
+                "address": "0x661a49476c0821dc790972000ea941c3e851e7af",
+                "config": ""
+            },
+            "taker": {
+                "user": {
+                    "username": "NullAddress"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+                "address": "0x0000000000000000000000000000000000000000",
+                "config": ""
+            },
+            "current_price": "11200000000000000000.00000000",
+            "current_bounty": "112000000000000000",
+            "bounty_multiple": "0.01",
+            "maker_relayer_fee": "750",
+            "taker_relayer_fee": "0",
+            "maker_protocol_fee": "0",
+            "taker_protocol_fee": "0",
+            "maker_referrer_fee": "0",
+            "fee_recipient": {
+                "user": {
+                    "username": "OS-Wallet"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+                "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+                "config": "verified"
+            },
+            "fee_method": 1,
+            "side": 1,
+            "sale_kind": 0,
+            "target": "0x86357a19e5537a8fba9a004e555713bc943a66c0",
+            "how_to_call": 0,
+            "calldata": "0x23b872dd000000000000000000000000661a49476c0821dc790972000ea941c3e851e7af00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000701",
+            "replacement_pattern": "0x000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000",
+            "static_target": "0x0000000000000000000000000000000000000000",
+            "static_extradata": "0x",
+            "payment_token": "0x0000000000000000000000000000000000000000",
+            "payment_token_contract": {
+                "id": 1,
+                "symbol": "ETH",
+                "address": "0x0000000000000000000000000000000000000000",
+                "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+                "name": "Ether",
+                "decimals": 18,
+                "eth_price": "1.000000000000000",
+                "usd_price": "4232.829999999999927000"
+            },
+            "base_price": "11200000000000000000",
+            "extra": "0",
+            "quantity": "1",
+            "salt": "1554856983216356199474762504813139545935496627526045636725495850387441846505",
+            "v": 28,
+            "r": "0x832b58d76db78bf706c9322148f0730d4289bb14ecc58eac4669be0f5e3ff566",
+            "s": "0x482e6b0a224fbebbf4a2f808fd791b6465fa2b8c8a693cd3302df3e1716209a8",
+            "approved_on_chain": false,
+            "cancelled": false,
+            "finalized": false,
+            "marked_invalid": false,
+            "prefixed_hash": "0xbb49db77902d4a7cf150f38f01db6d9d44ef9462b614655d6b9533832d74ec4a"
+        },
+        {
+            "created_date": "2021-10-27T11:04:11.465843",
+            "closing_date": "2022-04-27T07:36:33",
+            "closing_extendable": false,
+            "expiration_time": 1651044993,
+            "listing_time": 1635332546,
+            "order_hash": "0xb1999106fea99a276e9132a025e7fce883c3adec4ec8f82dda8d759f6c18ed22",
+            "metadata": {
+                "asset": {
+                    "id": "1793",
+                    "address": "0x86357a19e5537a8fba9a004e555713bc943a66c0"
+                },
+                "schema": "ERC721"
+            },
+            "exchange": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "maker": {
+                "user": {
+                    "username": "bandsyyy"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/23.png",
+                "address": "0x661a49476c0821dc790972000ea941c3e851e7af",
+                "config": ""
+            },
+            "taker": {
+                "user": {
+                    "username": "NullAddress"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+                "address": "0x0000000000000000000000000000000000000000",
+                "config": ""
+            },
+            "current_price": "11290000000000000000.00000000",
+            "current_bounty": "112900000000000000",
+            "bounty_multiple": "0.01",
+            "maker_relayer_fee": "750",
+            "taker_relayer_fee": "0",
+            "maker_protocol_fee": "0",
+            "taker_protocol_fee": "0",
+            "maker_referrer_fee": "0",
+            "fee_recipient": {
+                "user": {
+                    "username": "OS-Wallet"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+                "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+                "config": "verified"
+            },
+            "fee_method": 1,
+            "side": 1,
+            "sale_kind": 0,
+            "target": "0x86357a19e5537a8fba9a004e555713bc943a66c0",
+            "how_to_call": 0,
+            "calldata": "0x23b872dd000000000000000000000000661a49476c0821dc790972000ea941c3e851e7af00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000701",
+            "replacement_pattern": "0x000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000",
+            "static_target": "0x0000000000000000000000000000000000000000",
+            "static_extradata": "0x",
+            "payment_token": "0x0000000000000000000000000000000000000000",
+            "payment_token_contract": {
+                "id": 1,
+                "symbol": "ETH",
+                "address": "0x0000000000000000000000000000000000000000",
+                "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+                "name": "Ether",
+                "decimals": 18,
+                "eth_price": "1.000000000000000",
+                "usd_price": "4232.829999999999927000"
+            },
+            "base_price": "11290000000000000000",
+            "extra": "0",
+            "quantity": "1",
+            "salt": "92100811137046022087135324983457133997783049424730708526719186643636043849344",
+            "v": 27,
+            "r": "0xa8ccda6f577e2c6f0397dcbf26231182f05b5f5b4af6a03b19d958921fb96c6f",
+            "s": "0x7bc9eb08b639bb030222a3febbaaacfc69ac67130e3346503de1b20cec8ea55d",
+            "approved_on_chain": false,
+            "cancelled": false,
+            "finalized": false,
+            "marked_invalid": false,
+            "prefixed_hash": "0x55c09f712d52cdf187aea96fe903688a3590f8082f521b7f0ed564d9285e7725"
+        },
+        {
+            "created_date": "2021-10-27T07:36:43.846929",
+            "closing_date": "2022-04-27T07:36:33",
+            "closing_extendable": false,
+            "expiration_time": 1651044993,
+            "listing_time": 1635320101,
+            "order_hash": "0x2eaa055d7317325e965f1a3f7cb56643a1fea7ef9b25e3e83e6ad1b58fbd423d",
+            "metadata": {
+                "asset": {
+                    "id": "1793",
+                    "address": "0x86357a19e5537a8fba9a004e555713bc943a66c0"
+                },
+                "schema": "ERC721"
+            },
+            "exchange": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "maker": {
+                "user": {
+                    "username": "bandsyyy"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/23.png",
+                "address": "0x661a49476c0821dc790972000ea941c3e851e7af",
+                "config": ""
+            },
+            "taker": {
+                "user": {
+                    "username": "NullAddress"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+                "address": "0x0000000000000000000000000000000000000000",
+                "config": ""
+            },
+            "current_price": "11500000000000000000.00000000",
+            "current_bounty": "115000000000000000",
+            "bounty_multiple": "0.01",
+            "maker_relayer_fee": "750",
+            "taker_relayer_fee": "0",
+            "maker_protocol_fee": "0",
+            "taker_protocol_fee": "0",
+            "maker_referrer_fee": "0",
+            "fee_recipient": {
+                "user": {
+                    "username": "OS-Wallet"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+                "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+                "config": "verified"
+            },
+            "fee_method": 1,
+            "side": 1,
+            "sale_kind": 0,
+            "target": "0x86357a19e5537a8fba9a004e555713bc943a66c0",
+            "how_to_call": 0,
+            "calldata": "0x23b872dd000000000000000000000000661a49476c0821dc790972000ea941c3e851e7af00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000701",
+            "replacement_pattern": "0x000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000",
+            "static_target": "0x0000000000000000000000000000000000000000",
+            "static_extradata": "0x",
+            "payment_token": "0x0000000000000000000000000000000000000000",
+            "payment_token_contract": {
+                "id": 1,
+                "symbol": "ETH",
+                "address": "0x0000000000000000000000000000000000000000",
+                "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+                "name": "Ether",
+                "decimals": 18,
+                "eth_price": "1.000000000000000",
+                "usd_price": "4232.829999999999927000"
+            },
+            "base_price": "11500000000000000000",
+            "extra": "0",
+            "quantity": "1",
+            "salt": "77712321460184580941762977245325969189665243819880064138703062016042661884235",
+            "v": 28,
+            "r": "0xfe48c1c4eb5dcee6ce66694399ad65835692637189b52543794a6713198b1471",
+            "s": "0x77ab7b60f34d13e49e05a2c0f052952d6e2c2cec9af98209565496811c5a04a5",
+            "approved_on_chain": false,
+            "cancelled": false,
+            "finalized": false,
+            "marked_invalid": false,
+            "prefixed_hash": "0x90978e924a6b34b1f1dedb40f2e208a2f834a9e783d2a4b09e18f1de77e2058b"
+        }
+    ],
+    "auctions": [],
+    "supports_wyvern": true,
+    "top_ownerships": [
+        {
+            "owner": {
+                "user": {
+                    "username": "bandsyyy"
+                },
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/23.png",
+                "address": "0x661a49476c0821dc790972000ea941c3e851e7af",
+                "config": ""
+            },
+            "quantity": "1"
+        }
+    ],
+    "ownership": null,
+    "highest_buyer_commitment": null
+}

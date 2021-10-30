@@ -1,4 +1,5 @@
 Name,Status,Class,Gender,Race,Ability,Eyes,Strength,Intelligence,Attractiveness,Tech Skill,Cool,Credits,Credit Yield
+Character #0,First Citizen,Developer,Female,Human,None,Paranoid,45,66,19,27,54,436,Low
 Character #1,First Citizen,Club Owner,Male,Human,Revive,Scar,68,35,67,80,18,583,Mid
 Character #2,First Citizen,Scavenger,Female,Human,None,Scar,68,83,30,67,80,440,Low
 Character #3,First Citizen,Worker,Male,Human,None,Sad,97,93,46,33,67,294,Low
@@ -1999,6 +2000,80 @@ Character #1997,First Citizen,Driver,Female,Human,None,Scar,97,35,44,44,73,295,L
 Character #1998,First Citizen,Officer,Male,Human,None,Skeptical,94,41,33,80,87,443,Low
 Character #1999,First Citizen,Officer,Female,Human,None,Skeptical,70,89,81,65,15,438,Low
 Character #2000,First Citizen,Cyber Ninja,Female,Albino,None,Grumpy,59,96,84,81,55,873,Mid
+Character #2001,First Citizen,Cook,Male,Human,None,Paranoid,30,23,25,99,31,293,Low
+Character #2002,First Citizen,Cook,Male,Human,None,Sad,24,51,26,96,44,296,Low
+Character #2003,First Citizen,Assistant,Male,Human,None,Skeptical,90,80,21,21,31,299,Low
+Character #2004,First Citizen,Chat Support,Male,Human,None,Focused,36,82,76,86,18,298,Low
+Character #2005,First Citizen,Chef,Male,Human,None,Angry,12,72,37,54,19,436,Low
+Character #2006,First Citizen,Chat Support,Female,Human,None,Tired,40,36,27,37,67,292,Low
+Character #2007,First Citizen,Grunt,Female,Human,None,Grumpy,51,63,79,26,52,299,Low
+Character #2008,First Citizen,Builder,Male,Android,None,Bloodshot,72,20,35,94,45,297,Low
+Character #2009,First Citizen,Cook,Female,Human,None,Grumpy,55,78,51,17,12,299,Low
+Character #2010,First Citizen,Corporate,Male,Human,None,Sad,38,72,46,68,33,439,Low
+Character #2011,First Citizen,Exectuive,Male,Android,None,Sad,52,96,79,77,54,877,Mid
+Character #2012,First Citizen,Worker,Male,Albino,None,Robot,15,40,86,67,13,293,Low
+Character #2013,First Citizen,Driver,Female,Human,Revive,Focused,76,98,54,79,97,290,Low
+Character #2014,First Citizen,Tech Runner,Female,Ape,Locksmith,Scar,58,11,89,45,47,580,Mid
+Character #2015,First Citizen,Assistant,Male,Mutant,None,Paranoid,88,65,18,71,17,299,Low
+Character #2016,First Citizen,Club Promoter,Male,Human,None,Focused,17,44,57,55,49,440,Low
+Character #2017,First Citizen,Cook,Female,Human,None,Focused,82,89,14,86,45,299,Low
+Character #2018,First Citizen,Mercenary,Female,Human,None,Skeptical,85,75,79,42,67,580,Mid
+Character #2019,First Citizen,Mercenary,Male,Ghost,Shield,Skeptical,53,82,96,44,43,587,Mid
+Character #2020,First Citizen,Worker,Female,Human,None,Scar,52,31,66,48,54,299,Low
+Character #2021,First Citizen,Nerd,Female,Human,None,Focused,83,98,98,85,26,437,Low
+Character #2022,First Citizen,Scavenger,Male,Human,None,Skeptical,79,43,28,53,93,444,Low
+Character #2023,First Citizen,Bartender,Male,Mutant,None,Scar,80,11,17,69,86,290,Low
+Character #2024,First Citizen,Worker,Female,Human,None,Skeptical,54,99,69,88,24,298,Low
+Character #2025,First Citizen,Grunt,Female,Human,None,Paranoid,64,88,77,99,50,297,Low
+Character #2026,First Citizen,Worker,Female,Android,None,Tired,30,34,59,89,63,296,Low
+Character #2027,First Citizen,Worker,Female,Human,None,Sad,11,58,24,52,59,292,Low
+Character #2028,First Citizen,NFT Artist,Male,Android,None,Robot,82,86,74,50,57,874,Mid
+Character #2029,First Citizen,Grunt,Female,Human,None,Focused,86,93,80,73,35,293,Low
+Character #2030,First Citizen,Chat Support,Female,Human,None,Skeptical,71,74,97,96,58,297,Low
+Character #2031,First Citizen,Grunt,Male,Mutant,None,Scar,33,53,40,76,59,291,Low
+Character #2032,First Citizen,Exectuive,Female,Human,None,Suspicious,64,68,98,71,65,870,Mid
+Character #2033,First Citizen,Assistant,Female,Human,None,Suspicious,57,32,82,64,66,295,Low
+Character #2034,First Citizen,Bartender,Female,Human,None,Focused,71,83,61,66,98,298,Low
+Character #2035,First Citizen,Nerd,Male,Android,None,Sad,36,21,56,93,30,443,Low
+Character #2036,First Citizen,Grunt,Male,Android,None,Grumpy,63,54,64,49,17,295,Low
+Character #2037,First Citizen,Developer,Male,Human,None,Skeptical,47,25,22,94,69,441,Low
+Character #2038,First Citizen,Corporate,Male,Ghost,Shield,Scar,96,50,71,68,63,437,Low
+Character #2039,First Citizen,Nerd,Male,Ape,Hard Gut,Skeptical,78,91,84,50,84,444,Low
+Character #2040,First Citizen,Assistant,Male,Mutant,None,Suspicious,92,35,61,78,46,293,Low
+Character #2041,First Citizen,Chat Support,Female,Human,None,Angry,39,89,43,58,18,294,Low
+Character #2042,First Citizen,Mercenary,Male,Human,None,Angry,10,41,29,53,71,580,Mid
+Character #2043,First Citizen,Chat Support,Female,Human,None,Grumpy,34,94,76,13,42,290,Low
+Character #2044,First Citizen,Chat Support,Female,Human,None,Glowing,17,36,65,35,32,291,Low
+Character #2045,First Citizen,Chat Support,Male,Human,Dense,Scar,53,67,98,79,48,293,Low
+Character #2046,First Citizen,Builder,Male,Human,None,Suspicious,80,76,14,25,56,294,Low
+Character #2047,First Citizen,Builder,Male,Human,None,Skeptical,35,43,79,39,79,299,Low
+Character #2048,First Citizen,Builder,Female,Android,None,Sad,80,34,13,51,98,291,Low
+Character #2049,First Citizen,Builder,Female,Mutant,None,Tired,45,95,85,39,14,291,Low
+Character #2050,First Citizen,Architect,Male,Human,None,Alien,93,90,77,59,57,876,Mid
+Character #2051,First Citizen,Club Promoter,Female,Human,None,Bloodshot,97,41,59,28,95,440,Low
+Character #2052,First Citizen,Tech Weapon Dealer,Female,Mutant,None,Grumpy,84,79,65,98,82,879,Mid
+Character #2053,First Citizen,Assistant,Male,Mutant,None,Skeptical,51,39,46,77,69,296,Low
+Character #2054,First Citizen,Worker,Male,Mutant,None,Focused,31,35,25,93,53,291,Low
+Character #2055,First Citizen,Corporate,Female,Ghost,Shield,Glowing,13,33,39,71,27,443,Low
+Character #2056,First Citizen,Bartender,Male,Human,None,Tired,41,48,83,13,35,290,Low
+Character #2057,First Citizen,Cook,Male,Human,None,Demon Eyes,52,37,59,20,63,291,Low
+Character #2058,First Citizen,Driver,Female,Android,None,Angry,23,41,20,80,26,297,Low
+Character #2059,First Citizen,Developer,Male,Human,None,Tired,93,59,28,51,44,438,Low
+Character #2060,First Citizen,Assistant,Male,Human,None,Laser Eyes,31,58,44,81,93,290,Low
+Character #2061,First Citizen,Scavenger,Male,Human,None,Skeptical,91,22,45,87,30,443,Low
+Character #2062,First Citizen,Tech Runner,Female,Human,None,Bloodshot,97,61,84,66,65,589,Mid
+Character #2063,First Citizen,Worker,Female,Android,None,Bloodshot,71,69,18,84,94,297,Low
+Character #2064,First Citizen,Bartender,Male,Human,None,Robot,73,49,47,78,37,291,Low
+Character #2065,First Citizen,Cook,Male,Human,None,Paranoid,38,57,59,10,94,294,Low
+Character #2066,First Citizen,Driver,Male,Mutant,None,Robot,45,71,75,31,54,290,Low
+Character #2067,First Citizen,Scavenger,Male,Human,None,Grumpy,92,68,85,25,48,443,Low
+Character #2068,First Citizen,Assistant,Male,Android,None,Tired,10,27,24,78,96,296,Low
+Character #2069,First Citizen,Cyber Ninja,Male,Ape,Weapon Check,Tired,59,62,69,93,62,877,Mid
+Character #2070,First Citizen,Club Owner,Female,Human,None,Suspicious,20,68,53,14,25,580,Mid
+Character #2071,First Citizen,Developer,Female,Human,None,Paranoid,33,93,42,90,41,435,Low
+Character #2072,First Citizen,NFT Artist,Male,Demon,Locksmith,Paranoid,94,91,93,97,81,877,Mid
+Character #2073,First Citizen,Developer,Male,Mutant,None,Suspicious,95,52,97,81,89,438,Low
+Character #2074,First Citizen,Officer,Female,Mutant,None,Skeptical,65,22,52,18,27,437,Low
 Character #2075,First Citizen,CEO,Male,Demon,Hard Gut,Bloodshot,96,82,83,89,85,1450,High
 Character #2076,First Citizen,Grunt,Male,Ape,Weapon Check,Grumpy,92,19,65,52,15,299,Low
 Character #2077,First Citizen,Corporate,Male,Human,None,Bloodshot,69,33,76,81,73,443,Low
@@ -2011,9 +2086,416 @@ Character #2083,First Citizen,Bartender,Male,Human,None,Cyborg,76,84,73,68,42,29
 Character #2084,First Citizen,Mercenary,Female,Human,None,Focused,62,67,92,34,27,585,Mid
 Character #2085,First Citizen,Celebrity,Male,Aeon,Hard Gut,Suspicious,89,98,89,83,80,1456,High
 Character #2086,First Citizen,Day One Bitcoin Investor,Male,Human,None,Focused,74,86,80,89,82,1450,High
+Character #2087,First Citizen,Worker,Female,Human,None,Scar,57,21,41,42,53,295,Low
+Character #2088,First Citizen,Chat Support,Female,Android,None,Scar,33,45,93,33,54,299,Low
+Character #2089,First Citizen,Assistant,Female,Mutant,None,Tired,40,16,85,88,98,291,Low
+Character #2090,First Citizen,Architect,Male,Human,None,Cyborg,68,70,66,92,81,878,Mid
+Character #2091,First Citizen,Builder,Female,Android,None,Scar,67,29,72,58,91,294,Low
+Character #2092,First Citizen,Bartender,Male,Mutant,None,Skeptical,58,28,48,83,67,297,Low
+Character #2093,First Citizen,Assistant,Male,Ape,Dense,Tired,41,87,70,44,82,297,Low
+Character #2094,First Citizen,Mercenary,Male,Human,None,Alien,20,63,32,92,79,585,Mid
+Character #2095,First Citizen,Driver,Male,Human,None,Tired,50,34,65,57,89,291,Low
+Character #2096,First Citizen,Worker,Female,Human,None,Skeptical,89,94,25,40,76,299,Low
+Character #2097,First Citizen,Assistant,Male,Ape,Hard Gut,Bloodshot,69,47,41,62,27,293,Low
+Character #2098,First Citizen,Corporate,Male,Human,None,Paranoid,22,40,45,27,63,444,Low
+Character #2099,First Citizen,Developer,Female,Human,None,Scar,71,22,76,95,96,438,Low
+Character #2100,First Citizen,Cook,Female,Human,None,Paranoid,11,97,33,54,80,294,Low
+Character #2101,First Citizen,Driver,Male,Albino,None,Suspicious,29,38,50,72,39,298,Low
+Character #2102,First Citizen,Worker,Male,Human,None,Bloodshot,37,35,70,68,10,291,Low
+Character #2103,First Citizen,Developer,Female,Mutant,None,Skeptical,14,94,16,45,88,442,Low
+Character #2104,First Citizen,Grunt,Female,Android,None,Suspicious,17,82,50,66,85,298,Low
+Character #2105,First Citizen,Assistant,Female,Human,None,Suspicious,39,76,25,53,77,297,Low
+Character #2106,First Citizen,Chat Support,Female,Ghost,Athele,Bloodshot,84,50,96,37,98,296,Low
+Character #2107,First Citizen,Architect,Male,Human,None,Bloodshot,58,95,55,74,76,871,Mid
+Character #2108,First Citizen,Cyber Ninja,Male,Human,None,Glowing,88,57,58,66,94,874,Mid
+Character #2109,First Citizen,Mercenary,Male,Ape,Weapon Check,Angry,99,35,75,26,68,589,Mid
+Character #2110,First Citizen,Grunt,Male,Mutant,None,Focused,33,81,43,75,72,292,Low
+Character #2111,First Citizen,Club Promoter,Male,Human,None,Suspicious,65,65,71,38,79,440,Low
+Character #2112,First Citizen,Bartender,Female,Human,None,Paranoid,43,84,32,46,56,290,Low
+Character #2113,First Citizen,Chef,Female,Human,None,Grumpy,39,30,65,10,99,443,Low
+Character #2114,First Citizen,Builder,Male,Human,None,Bloodshot,91,40,54,65,26,291,Low
+Character #2115,First Citizen,Punk,Female,Ape,Ghost Walk,Suspicious,81,82,75,36,57,436,Low
+Character #2116,First Citizen,Chat Support,Female,Android,None,Scar,62,28,44,10,43,294,Low
+Character #2117,First Citizen,Bartender,Male,Human,None,Grumpy,64,78,35,54,91,299,Low
+Character #2118,First Citizen,Assistant,Male,Mutant,None,Angry,74,31,73,79,23,296,Low
+Character #2119,First Citizen,Builder,Male,Mutant,None,Sad,65,32,80,35,42,294,Low
+Character #2120,First Citizen,Cook,Male,Human,None,Skeptical,25,33,16,92,16,294,Low
+Character #2121,First Citizen,Grunt,Male,Human,None,Angry,31,13,28,47,70,297,Low
+Character #2122,First Citizen,Tech Runner,Male,Human,None,Paranoid,37,68,93,89,33,585,Mid
+Character #2123,First Citizen,Assistant,Female,Mutant,None,Paranoid,61,12,14,86,26,293,Low
+Character #2124,First Citizen,Worker,Male,Android,None,Focused,18,72,77,91,61,291,Low
+Character #2125,First Citizen,Assistant,Female,Human,None,Paranoid,52,18,79,54,30,290,Low
+Character #2126,First Citizen,Worker,Female,Mutant,None,Scar,36,57,77,68,99,298,Low
+Character #2127,First Citizen,Bartender,Male,Human,None,Suspicious,26,23,93,84,71,293,Low
+Character #2128,First Citizen,Worker,Male,Albino,None,Bloodshot,82,59,68,10,49,297,Low
+Character #2129,First Citizen,Grunt,Male,Human,None,Tired,95,41,33,93,93,296,Low
+Character #2130,First Citizen,Nerd,Male,Ape,Dense,Grumpy,24,68,13,96,86,440,Low
+Character #2131,First Citizen,Bartender,Female,Albino,None,Demon Eyes,27,20,16,58,33,299,Low
+Character #2132,First Citizen,Scavenger,Female,Human,None,Grumpy,24,85,21,35,31,440,Low
+Character #2133,First Citizen,Cyberstreet Trader,Female,Ape,Revive,Tired,94,54,43,95,21,587,Mid
+Character #2134,First Citizen,Punk,Male,Human,None,Sad,36,20,71,78,13,439,Low
+Character #2135,First Citizen,Officer,Male,Human,None,Sad,24,72,71,33,46,442,Low
+Character #2136,First Citizen,Developer,Female,Albino,None,Sad,52,51,23,22,29,436,Low
+Character #2137,First Citizen,Bartender,Male,Human,None,Bloodshot,22,14,15,91,36,292,Low
+Character #2138,First Citizen,Club Promoter,Female,Albino,None,Skeptical,53,83,67,68,58,439,Low
+Character #2139,First Citizen,Scavenger,Male,Android,None,Paranoid,95,85,46,13,95,439,Low
+Character #2140,First Citizen,Grunt,Male,Mutant,None,Sad,60,37,88,85,29,294,Low
+Character #2141,First Citizen,NFT Artist,Male,Albino,None,Alien,50,98,66,65,54,870,Mid
+Character #2142,First Citizen,Worker,Female,Human,None,Skeptical,11,37,79,43,57,294,Low
+Character #2143,First Citizen,Bartender,Male,Human,None,Sad,67,79,18,79,80,295,Low
+Character #2144,First Citizen,Club Owner,Male,Human,None,Sad,77,20,67,85,99,587,Mid
+Character #2145,First Citizen,Developer,Male,Human,None,Glowing,56,33,89,28,64,436,Low
+Character #2146,First Citizen,Club Owner,Female,Human,None,Angry,62,97,11,80,60,584,Mid
+Character #2147,First Citizen,Corporate,Male,Human,None,Scar,34,74,68,30,78,438,Low
+Character #2148,First Citizen,Bartender,Female,Human,None,Scar,27,51,96,50,74,297,Low
+Character #2149,First Citizen,Cyber Ninja,Female,Human,None,Tired,70,70,94,70,57,870,Mid
+Character #2150,First Citizen,Driver,Male,Human,None,Alien,44,84,20,78,69,295,Low
+Character #2151,First Citizen,Developer,Male,Human,None,Suspicious,74,48,56,76,98,442,Low
+Character #2152,First Citizen,Builder,Female,Android,None,Angry,76,95,93,76,84,292,Low
+Character #2153,First Citizen,Chef,Female,Human,None,Suspicious,33,81,25,52,38,442,Low
+Character #2154,First Citizen,Cyberstreet Trader,Female,Human,None,Scar,39,13,54,22,91,581,Mid
+Character #2155,First Citizen,Worker,Female,Human,None,Bloodshot,99,95,25,53,58,292,Low
+Character #2156,First Citizen,Driver,Female,Human,None,Bloodshot,41,62,20,25,67,298,Low
+Character #2157,First Citizen,Punk,Male,Human,None,Cyborg,41,16,86,80,75,441,Low
+Character #2158,First Citizen,Builder,Female,Human,Revive,Grumpy,85,26,58,22,63,296,Low
+Character #2159,First Citizen,Worker,Male,Mutant,None,Angry,83,93,57,40,95,297,Low
+Character #2160,First Citizen,Chat Support,Female,Android,None,Focused,90,51,29,86,97,297,Low
+Character #2161,First Citizen,Scavenger,Male,Human,None,Paranoid,80,79,77,93,30,435,Low
+Character #2162,First Citizen,Samurai,Male,Android,None,Grumpy,96,34,66,74,81,580,Mid
+Character #2163,First Citizen,Chef,Male,Android,None,Tired,36,49,21,95,74,436,Low
+Character #2164,First Citizen,Chat Support,Male,Human,None,Grumpy,16,84,54,95,28,294,Low
+Character #2165,First Citizen,Assistant,Female,Human,None,Paranoid,62,70,99,42,89,298,Low
+Character #2166,First Citizen,Chef,Male,Mutant,None,Paranoid,75,28,14,97,11,435,Low
+Character #2167,First Citizen,Architect,Female,Mutant,None,Cyborg,69,57,82,52,62,870,Mid
+Character #2168,First Citizen,Scavenger,Female,Albino,None,Grumpy,34,38,87,65,52,442,Low
+Character #2169,First Citizen,Assistant,Male,Human,None,Robot,28,98,10,14,99,297,Low
+Character #2170,First Citizen,Driver,Male,Albino,None,Sad,71,93,85,23,57,298,Low
+Character #2171,First Citizen,Assistant,Male,Albino,None,Bloodshot,62,43,23,61,14,299,Low
+Character #2172,First Citizen,Corporate,Female,Human,None,Suspicious,25,92,12,55,35,442,Low
+Character #2173,First Citizen,Driver,Male,Mutant,None,Sad,62,85,43,71,41,290,Low
+Character #2174,First Citizen,Punk,Male,Mutant,None,Suspicious,46,59,82,15,38,442,Low
+Character #2175,First Citizen,Bartender,Female,Ape,Shield,Suspicious,79,98,51,53,98,295,Low
+Character #2176,First Citizen,Builder,Male,Human,None,Scar,10,97,84,60,89,298,Low
+Character #2177,First Citizen,Driver,Female,Human,None,Scar,93,52,15,22,23,294,Low
+Character #2178,First Citizen,Scavenger,Male,Human,None,Glowing,89,31,30,28,52,443,Low
+Character #2179,First Citizen,Officer,Male,Human,None,Grumpy,83,48,82,80,60,443,Low
+Character #2180,First Citizen,Cyberstreet Trader,Male,Human,None,Focused,50,55,60,52,68,584,Mid
+Character #2181,First Citizen,Nerd,Male,Human,None,Grumpy,44,69,28,32,86,440,Low
+Character #2182,First Citizen,Bartender,Female,Human,None,Suspicious,41,59,62,35,99,299,Low
+Character #2183,First Citizen,Cook,Female,Android,None,Tired,31,54,51,74,53,294,Low
+Character #2184,First Citizen,Scavenger,Male,Mutant,None,Paranoid,96,82,70,68,91,444,Low
+Character #2185,First Citizen,Worker,Male,Human,None,Angry,74,34,90,22,83,292,Low
+Character #2186,First Citizen,Exectuive,Female,Human,None,Scar,71,86,62,74,92,870,Mid
+Character #2187,First Citizen,Bartender,Female,Human,None,Sad,34,38,84,37,83,292,Low
+Character #2188,First Citizen,Chef,Female,Human,None,Sad,16,70,61,21,77,438,Low
+Character #2189,First Citizen,Builder,Female,Android,None,Grumpy,20,28,80,33,69,292,Low
+Character #2190,First Citizen,Officer,Female,Human,None,Scar,91,51,46,80,57,437,Low
+Character #2191,First Citizen,Cyber Ninja,Male,Aeon,Ghost Walk,Angry,94,95,86,96,86,877,Mid
+Character #2192,First Citizen,Nerd,Female,Android,None,Tired,92,88,92,21,80,438,Low
+Character #2193,First Citizen,Developer,Female,Human,None,Robot,79,76,68,69,24,440,Low
+Character #2194,First Citizen,Bartender,Female,Android,None,Sad,26,14,48,98,59,294,Low
+Character #2195,First Citizen,Mercenary,Male,Human,None,Angry,11,65,85,32,36,586,Mid
+Character #2196,First Citizen,Samurai,Male,Human,None,Alien,84,78,53,45,59,582,Mid
+Character #2197,First Citizen,Exectuive,Female,Mutant,Dense,Grumpy,90,69,64,76,54,871,Mid
+Character #2198,First Citizen,Chef,Male,Human,None,Robot,78,14,86,23,23,439,Low
+Character #2199,First Citizen,Developer,Female,Android,None,Suspicious,83,69,50,41,76,436,Low
+Character #2200,First Citizen,Worker,Female,Mutant,None,Suspicious,46,81,80,56,16,298,Low
+Character #2201,First Citizen,Bartender,Male,Human,None,Grumpy,43,93,91,60,35,296,Low
+Character #2202,First Citizen,Officer,Female,Mutant,None,Bloodshot,62,20,80,56,82,435,Low
+Character #2203,First Citizen,Samurai,Female,Human,None,Focused,30,16,11,29,81,582,Mid
+Character #2204,First Citizen,Worker,Male,Human,None,Bloodshot,90,27,67,72,50,292,Low
+Character #2205,First Citizen,Samurai,Male,Human,None,Angry,17,91,41,50,12,580,Mid
+Character #2206,First Citizen,Assistant,Female,Human,None,Robot,69,46,29,75,58,297,Low
+Character #2207,First Citizen,Scavenger,Female,Android,None,Scar,41,99,51,98,58,444,Low
+Character #2208,First Citizen,Driver,Male,Human,None,Grumpy,13,68,80,31,20,299,Low
+Character #2209,First Citizen,Assassin,Male,Mutant,None,Angry,60,99,88,71,80,870,Mid
+Character #2210,First Citizen,Grunt,Female,Human,None,Cyborg,79,68,53,38,26,298,Low
+Character #2211,First Citizen,NFT Artist,Male,Albino,None,Angry,71,92,68,86,96,875,Mid
+Character #2212,First Citizen,Grunt,Female,Human,None,Focused,96,90,66,39,53,290,Low
+Character #2213,First Citizen,Worker,Female,Human,Revive,Paranoid,93,91,21,21,93,292,Low
+Character #2214,First Citizen,Bartender,Female,Human,None,Bloodshot,73,56,44,58,25,294,Low
+Character #2215,First Citizen,NFT Artist,Female,Human,None,Skeptical,71,85,68,59,56,870,Mid
+Character #2216,First Citizen,Assistant,Female,Human,None,Cyborg,41,93,79,38,99,292,Low
+Character #2217,First Citizen,Developer,Female,Android,None,Cyborg,26,30,58,92,65,440,Low
+Character #2218,First Citizen,Assistant,Female,Human,None,Grumpy,27,52,43,15,31,291,Low
+Character #2219,First Citizen,Mercenary,Male,Android,None,Alien,50,45,95,29,28,584,Mid
+Character #2220,First Citizen,Driver,Male,Android,None,Scar,89,51,90,46,43,290,Low
+Character #2221,First Citizen,Worker,Female,Mutant,None,Focused,31,84,21,52,61,293,Low
+Character #2222,First Citizen,Club Owner,Male,Human,None,Scar,98,26,36,23,52,583,Mid
+Character #2223,First Citizen,Builder,Male,Human,None,Paranoid,84,29,90,78,29,295,Low
+Character #2224,First Citizen,Builder,Female,Human,None,Paranoid,53,17,79,32,66,296,Low
+Character #2225,First Citizen,Driver,Female,Human,None,Sad,62,19,47,22,90,297,Low
+Character #2226,First Citizen,Exectuive,Female,Mutant,Locksmith,Tired,56,59,99,93,76,879,Mid
+Character #2227,First Citizen,Cook,Male,Human,None,Sad,38,45,81,47,66,291,Low
+Character #2228,First Citizen,Officer,Female,Human,None,Scar,63,25,94,99,65,435,Low
+Character #2229,First Citizen,Bartender,Male,Human,None,Focused,59,96,74,13,24,296,Low
+Character #2230,First Citizen,Builder,Female,Mutant,None,Suspicious,98,21,57,31,11,298,Low
+Character #2231,First Citizen,Chef,Male,Ape,Weapon Check,Tired,70,80,26,47,90,440,Low
+Character #2232,First Citizen,Cyberstreet Trader,Male,Human,None,Angry,82,88,49,62,74,583,Mid
+Character #2233,First Citizen,Developer,Male,Mutant,None,Tired,12,91,22,75,32,443,Low
+Character #2234,First Citizen,Worker,Male,Mutant,None,Focused,98,21,37,49,27,299,Low
+Character #2235,First Citizen,Tech Weapon Dealer,Male,Aeon,Dead Eye,Glowing,85,81,85,86,98,871,Mid
+Character #2236,First Citizen,Wraith,Male,Demon,Shield,Cyborg,85,94,90,81,88,1459,High
+Character #2237,First Citizen,Chat Support,Female,Human,None,Bloodshot,98,25,52,69,43,294,Low
+Character #2238,First Citizen,Cook,Male,Albino,Dense,Sad,69,54,66,47,59,292,Low
+Character #2239,First Citizen,Club Promoter,Male,Android,None,Scar,57,53,61,71,22,437,Low
+Character #2240,First Citizen,Day One Bitcoin Investor,Female,Mutant,None,Paranoid,84,82,73,71,95,1451,High
+Character #2241,First Citizen,Punk,Female,Human,None,Skeptical,89,40,66,96,75,436,Low
+Character #2242,First Citizen,Builder,Male,Human,None,Suspicious,20,24,40,17,90,295,Low
+Character #2243,First Citizen,Mercenary,Male,Android,None,Tired,71,93,75,83,81,585,Mid
+Character #2244,First Citizen,Worker,Female,Human,None,Paranoid,54,48,74,91,73,290,Low
+Character #2245,First Citizen,Bartender,Female,Human,None,Focused,90,52,82,70,34,291,Low
+Character #2246,First Citizen,Cook,Male,Android,None,Tired,87,96,83,19,78,296,Low
+Character #2247,First Citizen,Developer,Male,Human,None,Robot,78,99,33,18,17,435,Low
+Character #2248,First Citizen,Worker,Male,Human,None,Grumpy,17,75,35,99,98,297,Low
 Character #2249,First Citizen,Slayer,Male,Phantom,Hard Gut,Focused,82,87,97,88,81,1453,High
 Character #2250,First Citizen,Day One Bitcoin Investor,Male,Phantom,Hard Gut,Skeptical,86,81,99,99,87,1458,High
-Character #2251,First Citizen,Mercenary,Female,Ghost,Dense,Skeptical,62,60,51,81,61,584,Mid
-Character #2252,First Citizen,Club Owner,Female,Aeon,Revive,Scar,99,97,81,88,83,580,Mid
-Character #2253,First Citizen,Tech Runner,Female,Ape,Weapon Check,Skeptical,22,82,47,60,63,586,Mid
-Character #2254,First Citizen,Cyberstreet Trader,Female,Ape,Dead Eye,Paranoid,52,25,25,76,52,580,Mid
+Character #2251,First Citizen,Builder,Female,Android,None,Skeptical,62,60,51,81,61,295,Low
+Character #2252,First Citizen,Developer,Female,Ape,Ghost Walk,Scar,99,97,71,48,53,435,Low
+Character #2253,First Citizen,Exectuive,Female,Android,None,Skeptical,62,82,87,60,93,873,Mid
+Character #2254,First Citizen,Scavenger,Female,Human,None,Paranoid,52,25,25,76,52,438,Low
+Character #2255,First Citizen,Tech Weapon Dealer,Female,Human,None,Scar,95,86,91,95,92,877,Mid
+Character #2256,First Citizen,Chat Support,Female,Human,None,Paranoid,93,35,68,62,87,291,Low
+Character #2257,First Citizen,Chat Support,Female,Human,None,Suspicious,71,97,47,80,96,293,Low
+Character #2258,First Citizen,Officer,Female,Human,None,Focused,68,60,28,49,99,438,Low
+Character #2259,First Citizen,Slayer,Male,Demon,Weapon Check,Focused,92,87,84,96,93,1457,High
+Character #2260,First Citizen,Assistant,Male,Android,None,Skeptical,97,29,91,94,99,291,Low
+Character #2261,First Citizen,Mercenary,Female,Albino,None,Sad,48,89,97,58,98,581,Mid
+Character #2262,First Citizen,Corporate,Male,Human,None,Angry,14,28,83,60,90,442,Low
+Character #2263,First Citizen,Corporate,Male,Albino,None,Sad,36,58,60,41,80,438,Low
+Character #2264,First Citizen,Worker,Female,Human,None,Suspicious,24,97,93,94,34,299,Low
+Character #2265,First Citizen,Tech Runner,Male,Android,None,Paranoid,49,39,27,86,41,582,Mid
+Character #2266,First Citizen,Exectuive,Female,Human,None,Sad,57,73,57,79,82,870,Mid
+Character #2267,First Citizen,Chef,Male,Human,None,Demon Eyes,10,70,58,53,98,443,Low
+Character #2268,First Citizen,Tech Runner,Female,Human,None,Skeptical,75,59,34,16,39,584,Mid
+Character #2269,First Citizen,Grunt,Female,Mutant,None,Focused,79,73,19,78,43,292,Low
+Character #2270,First Citizen,Tech Runner,Female,Mutant,None,Focused,17,77,16,81,38,589,Mid
+Character #2271,First Citizen,Builder,Male,Human,None,Angry,84,12,15,53,58,290,Low
+Character #2272,First Citizen,Cook,Male,Human,None,Grumpy,76,75,73,84,98,294,Low
+Character #2273,First Citizen,Mercenary,Male,Human,None,Paranoid,91,40,37,75,96,585,Mid
+Character #2274,First Citizen,Cook,Male,Human,None,Grumpy,37,37,89,74,16,296,Low
+Character #2275,First Citizen,Bartender,Male,Albino,None,Paranoid,23,43,81,42,74,298,Low
+Character #2276,First Citizen,Grunt,Female,Human,None,Scar,38,61,47,50,35,291,Low
+Character #2277,First Citizen,Chat Support,Female,Human,None,Glowing,26,85,95,22,50,292,Low
+Character #2278,First Citizen,Builder,Male,Human,None,Focused,20,18,99,73,88,293,Low
+Character #2279,First Citizen,Worker,Male,Human,None,Grumpy,11,31,26,27,43,295,Low
+Character #2280,First Citizen,Assistant,Female,Human,None,Grumpy,78,17,63,61,55,294,Low
+Character #2281,First Citizen,Cook,Female,Human,None,Skeptical,66,60,97,76,66,293,Low
+Character #2282,First Citizen,Assistant,Female,Albino,None,Sad,45,53,98,41,62,294,Low
+Character #2283,First Citizen,Architect,Female,Human,None,Paranoid,96,95,87,83,66,871,Mid
+Character #2284,First Citizen,Cook,Male,Android,None,Cyborg,74,95,85,62,14,296,Low
+Character #2285,First Citizen,Builder,Female,Human,None,Sad,26,83,92,81,70,293,Low
+Character #2286,First Citizen,Driver,Male,Human,None,Demon Eyes,77,21,81,81,12,297,Low
+Character #2287,First Citizen,Builder,Male,Human,None,Skeptical,84,21,32,85,29,295,Low
+Character #2288,First Citizen,Chef,Female,Human,None,Paranoid,40,54,26,35,15,437,Low
+Character #2289,First Citizen,Assistant,Female,Human,None,Paranoid,18,91,41,80,16,296,Low
+Character #2290,First Citizen,Tech Runner,Male,Human,None,Suspicious,78,66,52,31,60,584,Mid
+Character #2291,First Citizen,Mercenary,Female,Human,None,Sad,20,60,64,80,84,585,Mid
+Character #2292,First Citizen,Worker,Male,Ape,Weapon Check,Grumpy,56,20,78,53,24,297,Low
+Character #2293,First Citizen,Punk,Male,Mutant,None,Scar,50,36,61,22,30,436,Low
+Character #2294,First Citizen,Club Promoter,Female,Android,None,Sad,57,32,42,78,13,441,Low
+Character #2295,First Citizen,Driver,Male,Android,None,Robot,90,18,59,65,88,291,Low
+Character #2296,First Citizen,Market Whale,Male,Android,None,Skeptical,94,95,80,70,76,1455,High
+Character #2297,First Citizen,Cyber Ninja,Female,Human,None,Paranoid,84,89,67,80,97,875,Mid
+Character #2298,First Citizen,Nerd,Male,Human,None,Focused,67,94,49,22,99,435,Low
+Character #2299,First Citizen,Exectuive,Male,Ape,Athele,Focused,84,61,81,94,73,872,Mid
+Character #2300,First Citizen,Club Promoter,Female,Human,None,Scar,43,78,45,77,24,436,Low
+Character #2301,First Citizen,Punk,Male,Human,None,Focused,10,72,45,72,18,438,Low
+Character #2302,First Citizen,Bartender,Female,Human,None,Skeptical,22,63,86,67,99,293,Low
+Character #2303,First Citizen,Driver,Male,Android,None,Sad,18,43,96,28,23,291,Low
+Character #2304,First Citizen,Cook,Male,Human,None,Cyborg,88,78,16,80,64,293,Low
+Character #2305,First Citizen,Worker,Male,Android,None,Sad,20,78,71,29,28,299,Low
+Character #2306,First Citizen,Club Owner,Female,Human,None,Grumpy,46,98,12,72,77,584,Mid
+Character #2307,First Citizen,Club Promoter,Male,Human,None,Skeptical,51,81,20,46,75,437,Low
+Character #2308,First Citizen,Nerd,Female,Human,None,Suspicious,92,37,65,48,40,441,Low
+Character #2309,First Citizen,Exectuive,Male,Human,None,Robot,98,88,91,87,90,875,Mid
+Character #2310,First Citizen,Club Promoter,Male,Human,None,Tired,56,23,97,70,91,437,Low
+Character #2311,First Citizen,Scavenger,Female,Human,None,Grumpy,74,88,97,39,22,444,Low
+Character #2312,First Citizen,Cook,Female,Albino,None,Suspicious,31,53,75,42,92,299,Low
+Character #2313,First Citizen,Assistant,Male,Human,None,Sad,82,15,90,58,12,295,Low
+Character #2314,First Citizen,Tech Runner,Female,Human,None,Paranoid,31,94,61,59,41,586,Mid
+Character #2315,First Citizen,Slayer,Male,Human,None,Suspicious,75,89,74,78,97,1452,High
+Character #2316,First Citizen,Mercenary,Female,Human,None,Suspicious,36,63,15,90,39,588,Mid
+Character #2317,First Citizen,Cook,Female,Ghost,Shield,Scar,62,39,95,93,78,291,Low
+Character #2318,First Citizen,Samurai,Male,Mutant,None,Alien,52,22,66,53,18,580,Mid
+Character #2319,First Citizen,Driver,Male,Albino,None,Grumpy,75,34,80,92,41,296,Low
+Character #2320,First Citizen,Cyberstreet Trader,Female,Human,None,Bloodshot,73,36,77,27,46,582,Mid
+Character #2321,First Citizen,Officer,Female,Android,None,Suspicious,98,30,17,97,52,439,Low
+Character #2322,First Citizen,Exectuive,Male,Ghost,Dead Eye,Skeptical,72,90,91,63,65,874,Mid
+Character #2323,First Citizen,Samurai,Female,Android,None,Angry,18,73,32,52,65,586,Mid
+Character #2324,First Citizen,Samurai,Male,Android,None,Focused,36,60,75,43,50,582,Mid
+Character #2325,First Citizen,Samurai,Female,Human,None,Bloodshot,57,86,98,32,56,584,Mid
+Character #2326,First Citizen,Grunt,Female,Human,None,Robot,53,49,52,40,21,299,Low
+Character #2327,First Citizen,Builder,Female,Human,None,Grumpy,22,64,23,64,61,291,Low
+Character #2328,First Citizen,Worker,Male,Human,None,Tired,61,52,92,40,76,292,Low
+Character #2329,First Citizen,Assistant,Female,Human,None,Paranoid,49,58,27,53,82,292,Low
+Character #2330,First Citizen,Scavenger,Female,Albino,None,Cyborg,23,20,49,64,30,435,Low
+Character #2331,First Citizen,Chat Support,Male,Human,None,Bloodshot,64,55,26,56,38,296,Low
+Character #2332,First Citizen,Builder,Female,Human,None,Focused,32,15,33,31,87,293,Low
+Character #2333,First Citizen,Grunt,Male,Mutant,None,Cyborg,54,43,90,97,58,298,Low
+Character #2334,First Citizen,Officer,Male,Albino,None,Scar,64,86,78,94,98,438,Low
+Character #2335,First Citizen,Builder,Female,Human,None,Paranoid,17,70,69,51,54,295,Low
+Character #2336,First Citizen,Worker,Male,Android,None,Bloodshot,48,57,37,14,34,293,Low
+Character #2337,First Citizen,Officer,Male,Mutant,None,Paranoid,14,43,12,73,24,441,Low
+Character #2338,First Citizen,Club Owner,Female,Mutant,None,Tired,91,17,48,99,34,586,Mid
+Character #2339,First Citizen,Club Promoter,Female,Mutant,None,Cyborg,51,33,62,28,75,442,Low
+Character #2340,First Citizen,Builder,Male,Human,None,Paranoid,79,90,63,68,83,292,Low
+Character #2341,First Citizen,Tech Runner,Female,Human,None,Grumpy,67,47,37,26,68,583,Mid
+Character #2342,First Citizen,Cook,Female,Ape,Weapon Check,Skeptical,31,79,36,15,50,299,Low
+Character #2343,First Citizen,Driver,Male,Human,None,Bloodshot,92,80,25,75,79,290,Low
+Character #2344,First Citizen,Corporate,Female,Human,None,Grumpy,69,29,82,31,39,442,Low
+Character #2345,First Citizen,Builder,Male,Human,None,Paranoid,96,77,22,17,26,299,Low
+Character #2346,First Citizen,Assassin,Female,Human,None,Sad,70,83,78,56,87,874,Mid
+Character #2347,First Citizen,Chat Support,Female,Mutant,None,Skeptical,94,14,80,82,56,298,Low
+Character #2348,First Citizen,Club Owner,Male,Ape,Shield,Cyborg,80,35,56,40,41,582,Mid
+Character #2349,First Citizen,Bartender,Female,Mutant,None,Paranoid,28,30,13,13,53,294,Low
+Character #2350,First Citizen,Bartender,Female,Human,None,Suspicious,48,23,68,92,94,297,Low
+Character #2351,First Citizen,Nerd,Female,Human,None,Robot,98,17,89,60,17,435,Low
+Character #2352,First Citizen,Chat Support,Female,Mutant,None,Robot,33,28,22,60,47,291,Low
+Character #2353,First Citizen,Nerd,Female,Human,None,Focused,11,83,30,21,26,440,Low
+Character #2354,First Citizen,Cook,Female,Human,None,Angry,83,85,78,26,39,296,Low
+Character #2355,First Citizen,Samurai,Male,Human,None,Paranoid,76,68,46,15,21,585,Mid
+Character #2356,First Citizen,Bartender,Female,Human,None,Suspicious,82,66,14,50,42,291,Low
+Character #2357,First Citizen,Cook,Male,Human,None,Suspicious,26,66,23,76,68,291,Low
+Character #2358,First Citizen,Assistant,Male,Human,None,Tired,49,62,76,84,60,292,Low
+Character #2359,First Citizen,Grunt,Male,Human,None,Paranoid,68,26,67,28,75,294,Low
+Character #2360,First Citizen,CEO,Male,Android,None,Sad,79,71,83,82,76,1458,High
+Character #2361,First Citizen,Driver,Male,Android,None,Suspicious,70,88,12,58,81,298,Low
+Character #2362,First Citizen,Cyber Ninja,Female,Human,None,Sad,57,90,52,77,51,874,Mid
+Character #2363,First Citizen,Cook,Male,Ape,Shield,Scar,16,10,40,39,64,292,Low
+Character #2364,First Citizen,Driver,Male,Human,None,Bloodshot,50,17,38,42,13,299,Low
+Character #2365,First Citizen,Worker,Male,Ape,Shield,Bloodshot,16,93,63,22,33,296,Low
+Character #2366,First Citizen,Celebrity,Male,Mutant,None,Robot,86,71,94,80,89,1459,High
+Character #2367,First Citizen,Corporate,Female,Human,None,Angry,96,52,74,96,53,443,Low
+Character #2368,First Citizen,Architect,Male,Human,None,Paranoid,65,66,93,67,58,871,Mid
+Character #2369,First Citizen,Officer,Male,Android,None,Paranoid,79,59,42,70,44,444,Low
+Character #2370,First Citizen,Punk,Male,Human,None,Demon Eyes,71,99,80,62,38,436,Low
+Character #2371,First Citizen,Chat Support,Male,Human,None,Skeptical,87,88,36,69,26,291,Low
+Character #2372,First Citizen,Samurai,Male,Human,None,Cyborg,84,94,54,15,88,582,Mid
+Character #2373,First Citizen,Day One Bitcoin Investor,Male,Human,None,Bloodshot,83,70,91,90,74,1455,High
+Character #2374,First Citizen,Nerd,Female,Human,None,Grumpy,34,52,38,32,82,438,Low
+Character #2375,First Citizen,Assistant,Male,Mutant,None,Scar,80,95,46,57,41,296,Low
+Character #2376,First Citizen,Cyberstreet Trader,Female,Human,None,Grumpy,99,39,82,71,42,584,Mid
+Character #2377,First Citizen,Cook,Male,Human,None,Scar,31,46,94,13,12,296,Low
+Character #2378,First Citizen,Samurai,Male,Human,None,Tired,97,27,74,20,19,587,Mid
+Character #2379,First Citizen,Builder,Male,Mutant,None,Skeptical,27,60,31,73,17,293,Low
+Character #2380,First Citizen,Mercenary,Male,Human,None,Paranoid,78,74,54,27,50,583,Mid
+Character #2381,First Citizen,Cook,Male,Mutant,None,Bloodshot,87,82,24,35,97,297,Low
+Character #2382,First Citizen,Driver,Male,Human,None,Scar,71,45,45,25,86,291,Low
+Character #2383,First Citizen,Bartender,Male,Human,Hard Gut,Angry,10,45,14,72,43,299,Low
+Character #2384,First Citizen,Grunt,Male,Human,None,Bloodshot,94,12,57,37,96,298,Low
+Character #2385,First Citizen,Chat Support,Male,Human,None,Sad,56,37,36,68,65,295,Low
+Character #2386,First Citizen,Chat Support,Male,Human,None,Bloodshot,91,15,50,15,74,293,Low
+Character #2387,First Citizen,NFT Artist,Female,Human,None,Tired,76,75,93,76,67,879,Mid
+Character #2388,First Citizen,Wraith,Female,Human,None,Bloodshot,92,73,95,87,86,1450,High
+Character #2389,First Citizen,Worker,Male,Human,None,Focused,59,20,22,67,29,299,Low
+Character #2390,First Citizen,Chef,Male,Android,None,Suspicious,55,63,78,36,87,442,Low
+Character #2391,First Citizen,Grunt,Female,Ape,Hard Gut,Angry,52,81,41,54,15,298,Low
+Character #2392,First Citizen,Builder,Female,Mutant,None,Tired,98,32,80,38,75,295,Low
+Character #2393,First Citizen,Cyberstreet Trader,Female,Human,None,Glowing,99,48,80,25,66,584,Mid
+Character #2394,First Citizen,Club Owner,Female,Android,None,Tired,40,28,61,39,37,583,Mid
+Character #2395,First Citizen,Exectuive,Female,Human,None,Grumpy,64,55,64,72,60,871,Mid
+Character #2396,First Citizen,Grunt,Female,Human,None,Skeptical,98,89,55,48,53,290,Low
+Character #2397,First Citizen,Nerd,Male,Ape,Weapon Check,Focused,92,36,82,96,49,444,Low
+Character #2398,First Citizen,CEO,Female,Human,None,Paranoid,94,81,93,91,77,1458,High
+Character #2399,First Citizen,Cook,Female,Human,None,Tired,65,14,35,61,43,290,Low
+Character #2400,First Citizen,Officer,Male,Human,None,Bloodshot,93,54,50,25,54,435,Low
+Character #2401,First Citizen,Cook,Male,Human,None,Paranoid,78,31,76,97,26,295,Low
+Character #2402,First Citizen,Nerd,Male,Human,None,Sad,67,86,61,46,96,442,Low
+Character #2403,First Citizen,Builder,Female,Human,None,Focused,56,13,17,43,26,294,Low
+Character #2404,First Citizen,Builder,Female,Human,None,Cyborg,49,58,76,94,57,291,Low
+Character #2405,First Citizen,Cook,Female,Android,None,Focused,51,93,23,14,84,295,Low
+Character #2406,First Citizen,Developer,Female,Ape,Weapon Check,Skeptical,11,56,52,91,12,442,Low
+Character #2407,First Citizen,NFT Artist,Female,Human,None,Focused,84,70,53,93,96,877,Mid
+Character #2408,First Citizen,Builder,Female,Android,None,Angry,47,54,38,41,13,295,Low
+Character #2409,First Citizen,Samurai,Male,Mutant,None,Focused,78,45,38,98,69,589,Mid
+Character #2410,First Citizen,Assistant,Female,Mutant,None,Sad,43,78,78,93,93,298,Low
+Character #2411,First Citizen,Driver,Female,Human,None,Demon Eyes,96,16,14,73,28,292,Low
+Character #2412,First Citizen,Driver,Female,Human,None,Suspicious,59,84,19,72,19,291,Low
+Character #2413,First Citizen,Scavenger,Male,Albino,None,Sad,29,13,29,50,83,435,Low
+Character #2414,First Citizen,Grunt,Male,Human,None,Paranoid,14,21,31,93,39,294,Low
+Character #2415,First Citizen,Chef,Female,Mutant,None,Scar,67,18,73,17,28,442,Low
+Character #2416,First Citizen,Market Whale,Female,Android,None,Grumpy,88,81,97,98,84,1455,High
+Character #2417,First Citizen,Worker,Male,Human,None,Paranoid,99,39,13,80,13,290,Low
+Character #2418,First Citizen,Club Promoter,Male,Human,None,Focused,83,32,10,74,98,440,Low
+Character #2419,First Citizen,Driver,Female,Mutant,None,Tired,30,12,80,29,46,298,Low
+Character #2420,First Citizen,Officer,Female,Human,None,Cyborg,54,45,31,81,49,440,Low
+Character #2421,First Citizen,Developer,Female,Human,None,Paranoid,61,10,66,75,51,439,Low
+Character #2422,First Citizen,Samurai,Male,Human,Hard Gut,Scar,90,88,90,46,87,581,Mid
+Character #2423,First Citizen,Builder,Female,Human,None,Scar,91,71,85,35,15,296,Low
+Character #2424,First Citizen,Chat Support,Male,Human,None,Sad,14,78,80,38,51,291,Low
+Character #2425,First Citizen,Cyberstreet Trader,Female,Android,None,Tired,74,20,46,34,83,580,Mid
+Character #2426,First Citizen,Bartender,Female,Human,None,Scar,35,52,20,66,50,293,Low
+Character #2427,First Citizen,Cook,Female,Human,None,Robot,40,19,70,68,94,295,Low
+Character #2428,First Citizen,Club Promoter,Female,Mutant,None,Demon Eyes,35,73,93,35,55,441,Low
+Character #2429,First Citizen,Assistant,Female,Ape,Dead Eye,Grumpy,97,70,17,60,84,293,Low
+Character #2430,First Citizen,Worker,Male,Ghost,Shield,Focused,72,52,94,48,51,298,Low
+Character #2431,First Citizen,Worker,Female,Human,None,Skeptical,29,93,44,97,92,298,Low
+Character #2432,First Citizen,Tech Runner,Female,Android,None,Paranoid,36,68,87,49,59,586,Mid
+Character #2433,First Citizen,Punk,Male,Human,None,Suspicious,12,56,52,42,88,436,Low
+Character #2434,First Citizen,Builder,Female,Human,None,Paranoid,86,29,99,57,98,292,Low
+Character #2435,First Citizen,Bartender,Male,Human,None,Scar,52,52,43,14,93,291,Low
+Character #2436,First Citizen,Club Owner,Female,Human,None,Bloodshot,62,36,78,62,41,581,Mid
+Character #2437,First Citizen,Samurai,Female,Human,None,Cyborg,16,53,75,96,82,581,Mid
+Character #2438,First Citizen,Scavenger,Female,Human,None,Suspicious,72,28,48,63,85,437,Low
+Character #2439,First Citizen,Mercenary,Male,Mutant,None,Scar,17,69,42,16,65,587,Mid
+Character #2440,First Citizen,Assistant,Male,Human,None,Skeptical,31,19,59,66,96,297,Low
+Character #2441,First Citizen,Cyber Ninja,Male,Human,None,Skeptical,90,83,64,96,91,878,Mid
+Character #2442,First Citizen,Bartender,Female,Human,None,Scar,88,38,75,74,60,292,Low
+Character #2443,First Citizen,Cook,Female,Human,None,Robot,17,80,62,59,94,297,Low
+Character #2444,First Citizen,Chat Support,Male,Android,None,Tired,25,28,10,92,25,295,Low
+Character #2445,First Citizen,Worker,Female,Human,None,Suspicious,55,38,18,38,73,290,Low
+Character #2446,First Citizen,Cook,Female,Human,None,Suspicious,74,28,14,96,23,295,Low
+Character #2447,First Citizen,Tech Runner,Female,Human,None,Alien,12,75,28,76,17,582,Mid
+Character #2448,First Citizen,Builder,Female,Ape,Shield,Paranoid,29,84,46,26,54,293,Low
+Character #2449,First Citizen,Club Promoter,Female,Human,None,Tired,10,65,79,69,30,443,Low
+Character #2450,First Citizen,Corporate,Male,Mutant,None,Robot,92,28,86,76,84,443,Low
+Character #2451,First Citizen,Scavenger,Male,Human,None,Focused,68,83,45,78,87,443,Low
+Character #2452,First Citizen,Cook,Male,Human,None,Grumpy,53,44,17,88,11,290,Low
+Character #2453,First Citizen,Officer,Female,Human,None,Suspicious,20,15,42,10,74,436,Low
+Character #2454,First Citizen,Assistant,Female,Albino,None,Bloodshot,79,37,89,13,47,293,Low
+Character #2455,First Citizen,Nerd,Female,Android,None,Tired,82,48,84,54,50,443,Low
+Character #2456,First Citizen,Bartender,Female,Human,None,Grumpy,91,95,52,17,58,299,Low
+Character #2457,First Citizen,Assistant,Male,Android,None,Focused,26,83,68,71,38,292,Low
+Character #2458,First Citizen,Chat Support,Male,Human,None,Sad,62,61,26,29,24,290,Low
+Character #2459,First Citizen,Driver,Female,Ghost,Revive,Skeptical,83,49,45,62,22,295,Low
+Character #2460,First Citizen,Cook,Female,Human,None,Bloodshot,59,22,69,63,95,299,Low
+Character #2461,First Citizen,Builder,Male,Human,None,Alien,21,86,52,60,35,291,Low
+Character #2462,First Citizen,Scavenger,Female,Android,None,Demon Eyes,60,53,32,49,18,438,Low
+Character #2463,First Citizen,Grunt,Male,Human,None,Scar,29,92,50,54,18,290,Low
+Character #2464,First Citizen,Worker,Female,Human,None,Skeptical,23,30,52,90,41,298,Low
+Character #2465,First Citizen,Developer,Male,Human,None,Scar,41,50,39,75,74,444,Low
+Character #2466,First Citizen,Club Promoter,Female,Human,None,Sad,20,66,94,26,45,440,Low
+Character #2467,First Citizen,Exectuive,Female,Ape,Dead Eye,Glowing,85,88,76,70,58,879,Mid
+Character #2468,First Citizen,Samurai,Male,Human,None,Alien,98,76,13,55,71,582,Mid
+Character #2469,First Citizen,Cook,Female,Human,None,Cyborg,30,51,78,22,98,290,Low
+Character #2470,First Citizen,Punk,Male,Mutant,None,Grumpy,31,84,40,52,96,439,Low
+Character #2471,First Citizen,Cyberstreet Trader,Female,Human,None,Bloodshot,89,82,59,59,23,586,Mid
+Character #2472,First Citizen,Cook,Female,Albino,None,Skeptical,24,82,39,47,50,297,Low
+Character #2473,First Citizen,Cyberstreet Trader,Female,Android,None,Skeptical,69,11,71,12,82,581,Mid
+Character #2474,First Citizen,Chat Support,Female,Human,None,Grumpy,13,89,52,95,87,299,Low
+Character #2475,First Citizen,Developer,Female,Ape,Revive,Focused,83,76,43,60,55,436,Low
+Character #2476,First Citizen,Cyberstreet Trader,Male,Android,None,Tired,58,46,60,38,58,586,Mid
+Character #2477,First Citizen,Worker,Female,Human,None,Angry,37,91,72,90,62,293,Low
+Character #2478,First Citizen,Developer,Male,Human,None,Sad,25,77,10,24,99,436,Low
+Character #2479,First Citizen,Cyber Ninja,Male,Human,None,Suspicious,74,84,87,91,69,876,Mid
+Character #2480,First Citizen,Builder,Male,Human,None,Focused,83,47,89,72,98,290,Low
+Character #2481,First Citizen,Assistant,Female,Mutant,None,Grumpy,23,38,86,58,63,296,Low
+Character #2482,First Citizen,Cook,Male,Android,None,Skeptical,68,84,83,60,68,296,Low
+Character #2483,First Citizen,Assistant,Male,Android,None,Grumpy,42,32,51,84,42,296,Low
+Character #2484,First Citizen,Worker,Female,Human,None,Focused,75,68,99,35,50,291,Low
+Character #2485,First Citizen,Assassin,Male,Mutant,None,Grumpy,70,65,88,58,68,876,Mid
+Character #2486,First Citizen,Grunt,Male,Human,None,Tired,55,50,71,51,84,296,Low
+Character #2487,First Citizen,Bartender,Male,Human,None,Skeptical,73,31,53,42,61,291,Low
+Character #2488,First Citizen,Driver,Female,Android,Revive,Suspicious,34,49,12,28,32,292,Low
+Character #2489,First Citizen,CEO,Male,Demon,Locksmith,Focused,88,95,86,96,87,1453,High
+Character #2490,First Citizen,Worker,Male,Human,None,Focused,29,35,38,35,15,290,Low
+Character #2491,First Citizen,Club Owner,Female,Ape,Hard Gut,Bloodshot,60,10,97,92,34,585,Mid
+Character #2492,First Citizen,Worker,Male,Mutant,None,Sad,59,15,28,97,65,292,Low
+Character #2493,First Citizen,Assistant,Male,Human,None,Suspicious,54,98,57,71,99,298,Low
+Character #2494,First Citizen,Tech Runner,Female,Human,None,Angry,58,97,61,85,56,587,Mid
+Character #2495,First Citizen,Club Promoter,Male,Android,None,Suspicious,50,95,24,61,79,443,Low
+Character #2496,First Citizen,Developer,Male,Human,None,Sad,39,77,77,62,99,442,Low
+Character #2497,First Citizen,Driver,Male,Mutant,None,Angry,18,84,61,90,76,293,Low
+Character #2498,First Citizen,Assistant,Male,Human,None,Tired,20,67,22,23,77,299,Low
+Character #2499,First Citizen,Builder,Female,Human,None,Focused,35,82,83,42,34,291,Low

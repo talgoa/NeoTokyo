@@ -334,10 +334,10 @@ namespace NeoTokyo
 
         static async Task GetItemCaches(Web3 web3)
         {
-            ItemCache[] itemCaches = new ItemCache[2500];
+            ItemCache[] itemCaches = new ItemCache[2600];
             String fullExport = "Id,Weapon,Apparel,Vehicle,Helm,Rarity";
 
-            for (int i = 0; i <= 2500; i++)
+            for (int i = 2499; i <= 2510; i++)
             {
                 itemCaches[i] = await GetItemCache(web3, i);
                 if (itemCaches[i] == null) continue;

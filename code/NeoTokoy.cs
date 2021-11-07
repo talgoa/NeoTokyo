@@ -84,13 +84,15 @@ namespace NeoTokyo
 
     class Vault
     {
+        public int Id;
         public int Credits;
         public String CreditSupplyProportion;
         public String AdditionalItem;
         public String CreditMultiplier;
         public string ImageData;
         public string RawJson;
-        public int openedBy;
+        public int Rarity;
+        public int OpenedBy;
 
         public Vault(RawValue rawVault)
         {
@@ -103,7 +105,7 @@ namespace NeoTokyo
 
         public String toCSV()
         {
-            return Credits + "," + CreditSupplyProportion + "," + AdditionalItem + "," + CreditMultiplier + "," + openedBy;
+            return Id + "," + Credits + "," + CreditSupplyProportion + "," + AdditionalItem + "," + CreditMultiplier + "," + OpenedBy + "," + Rarity;
         }
     }
 
@@ -274,10 +276,10 @@ namespace NeoTokyo
         {
             var contract = web3.Eth.GetContract(abi, neoTokyoContract);
 
-            Vault[] vaults = new Vault[2500];
-            String fullExport = "Credits,CreditSupplyProportion,AdditionalItem,CreditMultiplier,OpenedBy";
+            Vault[] vaults = new Vault[2600];
+            String fullExport = "Id,Credits,CreditSupplyProportion,AdditionalItem,CreditMultiplier,OpenedBy,Rarity";
 
-            for (int i = 0; i < 2500; i++)
+            for (int i = 0; i < 2600; i++)
             {
                 vaults[i] = await GetVault(web3, i);
                 if (vaults[i] == null) continue;
@@ -311,6 +313,7 @@ namespace NeoTokyo
             string decodedString = Encoding.UTF8.GetString(Convert.FromBase64String(uri));
             var rawVault = JsonSerializer.Deserialize<RawValue>(decodedString);
             var vault = new Vault(rawVault);
+            vault.Id = id;
             vault.RawJson = decodedString;
 
             var contract2 = web3.Eth.GetContract(bytesAbi, bytesContract);
@@ -327,7 +330,9 @@ namespace NeoTokyo
                 return null;
             }
 
-            vault.openedBy = openedBy;
+            vault.OpenedBy = openedBy;
+
+            vault.Rarity = GetRarity("neotokyovault", id);
 
             return vault;
         }
@@ -337,7 +342,7 @@ namespace NeoTokyo
             ItemCache[] itemCaches = new ItemCache[2600];
             String fullExport = "Id,Weapon,Apparel,Vehicle,Helm,Rarity";
 
-            for (int i = 2499; i <= 2510; i++)
+            for (int i = 0; i < 2600; i++)
             {
                 itemCaches[i] = await GetItemCache(web3, i);
                 if (itemCaches[i] == null) continue;
